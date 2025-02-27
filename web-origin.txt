@@ -1,0 +1,2808 @@
+Uri: https://t1.daumcdn.net/adfit/static/kp.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\adfit\static\kp.js
+Content Type: text/javascript
+
+Uri: https://t1.kakaocdn.net/kakao_js_sdk/2.7.1/kakao.min.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\kakao_js_sdk\2.7.1\kakao.min.js
+Content Type: application/javascript
+
+Uri: https://tamburins-dev-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_candle.jpg/94d0e107-cfad-42c0-88e0-96c7663c1fc1/ctgr_candle.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_candle.jpg\94d0e107-cfad-42c0-88e0-96c7663c1fc1\ctgr_candle.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-dev-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_chain.jpg/7c55c3d4-4eb5-4f8b-838b-5a1315f9ed10/ctgr_chain.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_chain.jpg\7c55c3d4-4eb5-4f8b-838b-5a1315f9ed10\ctgr_chain.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-dev-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_handBody.jpg/2e445e62-20b5-4a40-b534-a40af2e04f57/ctgr_handBody.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_handBody.jpg\2e445e62-20b5-4a40-b534-a40af2e04f57\ctgr_handBody.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-dev-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_lipBalm.jpg/fb0ab921-4933-4c37-be00-b3aa49cb9379/ctgr_lipBalm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_lipBalm.jpg\fb0ab921-4933-4c37-be00-b3aa49cb9379\ctgr_lipBalm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-dev-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_perfume_50.jpg/1ca3049b-b4d9-490a-ad62-46388883bd5a/ctgr_perfume_50.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_perfume_50.jpg\1ca3049b-b4d9-490a-ad62-46388883bd5a\ctgr_perfume_50.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-dev-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_shell.jpg/65e712f4-30b4-4f6e-ada0-6f6c6123537e/ctgr_shell.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_shell.jpg\65e712f4-30b4-4f6e-ada0-6f6c6123537e\ctgr_shell.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_balm3.jpg/f66c0d4d-8d3d-49b8-986f-0020e0db83b3/ctgr_balm3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_balm3.jpg\f66c0d4d-8d3d-49b8-986f-0020e0db83b3\ctgr_balm3.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_car_fin.jpg/3005803b-6882-4882-9835-d6f1ac724f03/ctgr_car_fin.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_car_fin.jpg\3005803b-6882-4882-9835-d6f1ac724f03\ctgr_car_fin.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_evening_2.jpg/5f190994-6985-4d3c-b2ba-9a9d1bb44c4e/ctgr_evening_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_evening_2.jpg\5f190994-6985-4d3c-b2ba-9a9d1bb44c4e\ctgr_evening_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_room2.jpg/d972652f-b60e-4b9a-90de-044bd1886fe1/ctgr_room2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_room2.jpg\d972652f-b60e-4b9a-90de-044bd1886fe1\ctgr_room2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/catalog/ctgr_shryBody_v2.jpg/7da6199d-f66d-40d9-828b-c780c64a6f26/ctgr_shryBody_v2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\catalog\ctgr_shryBody_v2.jpg\7da6199d-f66d-40d9-828b-c780c64a6f26\ctgr_shryBody_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001154/9e95c707-b53f-40ae-8b79-40fb1469beba/thumb_balm_chamo_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001154\9e95c707-b53f-40ae-8b79-40fb1469beba\thumb_balm_chamo_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001154/a98b8887-c3d2-4e45-991b-1f050b218047/thumb_balm_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001154\a98b8887-c3d2-4e45-991b-1f050b218047\thumb_balm_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001154/aea6d220-9d07-4432-870d-c2bf45191359/thumb_balm_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001154\aea6d220-9d07-4432-870d-c2bf45191359\thumb_balm_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001154/f646d8de-4a53-4319-9d6f-b8a35aa8e07a/thumb_balm_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001154\f646d8de-4a53-4319-9d6f-b8a35aa8e07a\thumb_balm_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001155/4a8c9522-c2e5-4f65-81ea-c1a9d8e67b79/thumb_balm_lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001155\4a8c9522-c2e5-4f65-81ea-c1a9d8e67b79\thumb_balm_lale.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001155/99c8c816-64c3-4333-b866-475e50bc80bc/thumb_balm_lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001155\99c8c816-64c3-4333-b866-475e50bc80bc\thumb_balm_lale.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001155/b8a0737c-8aa8-4d4e-9487-3ea71baf774b/thumb_balm_lale_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001155\b8a0737c-8aa8-4d4e-9487-3ea71baf774b\thumb_balm_lale_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001155/db621fda-b77e-465c-9624-6474a660653a/thumb_balm_lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001155\db621fda-b77e-465c-9624-6474a660653a\thumb_balm_lale.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001156/0cb8e8ec-90b9-4aa9-b490-1b8491a6bf0b/thumb_balm_berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001156\0cb8e8ec-90b9-4aa9-b490-1b8491a6bf0b\thumb_balm_berga.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001156/1d76e3d4-b670-4feb-9844-85b3d96a4eb4/thumb_balm_berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001156\1d76e3d4-b670-4feb-9844-85b3d96a4eb4\thumb_balm_berga.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001156/98dfa1ab-0cff-416b-b9a0-9f6eb969aa9e/thumb_balm_berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001156\98dfa1ab-0cff-416b-b9a0-9f6eb969aa9e\thumb_balm_berga.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001156/f735bd61-db6c-49b4-b1d3-7a6158a710fa/thumb_balm_berga_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001156\f735bd61-db6c-49b4-b1d3-7a6158a710fa\thumb_balm_berga_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001163/1f5346ed-11e0-413d-a321-e59cd714e78b/Thumbnail_RoomDiffuser_pinenest_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001163\1f5346ed-11e0-413d-a321-e59cd714e78b\Thumbnail_RoomDiffuser_pinenest_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001163/6b7bfd72-bf7a-4c61-a921-2d28ede79d21/Thumbnail_RoomDiffuser_Pinenest_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001163\6b7bfd72-bf7a-4c61-a921-2d28ede79d21\Thumbnail_RoomDiffuser_Pinenest_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001163/cccc3330-47d9-4e60-88d7-3db1c7705e4c/Thumbnail_RoomDiffuser_Pinenest_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001163\cccc3330-47d9-4e60-88d7-3db1c7705e4c\Thumbnail_RoomDiffuser_Pinenest_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001163/eb367ef3-affd-4675-a7f0-fef28646d6a0/Thumbnail_RoomDiffuser_Pinenest_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001163\eb367ef3-affd-4675-a7f0-fef28646d6a0\Thumbnail_RoomDiffuser_Pinenest_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001164/0f8453fd-eb37-4046-88ab-5e270f0c21aa/Thumbnail_RoomDiffuser_papyrus_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001164\0f8453fd-eb37-4046-88ab-5e270f0c21aa\Thumbnail_RoomDiffuser_papyrus_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001164/7d0a9490-8821-47c4-a1dc-f0d58e09b12f/Thumbnail_RoomDiffuser_Papyrus_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001164\7d0a9490-8821-47c4-a1dc-f0d58e09b12f\Thumbnail_RoomDiffuser_Papyrus_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001164/d2a589eb-4f24-47b9-8841-3dab4da7dfdb/Thumbnail_RoomDiffuser_Papyrus_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001164\d2a589eb-4f24-47b9-8841-3dab4da7dfdb\Thumbnail_RoomDiffuser_Papyrus_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001164/e85ad68f-2172-4569-a9e9-c7cc5b43a0ee/Thumbnail_RoomDiffuser_Papyrus_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001164\e85ad68f-2172-4569-a9e9-c7cc5b43a0ee\Thumbnail_RoomDiffuser_Papyrus_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001165/3a1340ad-332e-4893-8205-8b004d0a344e/Thumbnail_RoomDiffuser_Meok_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001165\3a1340ad-332e-4893-8205-8b004d0a344e\Thumbnail_RoomDiffuser_Meok_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001165/61d80fa4-862f-40c3-91ca-6ac6127ed956/Thumbnail_RoomDiffuser_Meok_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001165\61d80fa4-862f-40c3-91ca-6ac6127ed956\Thumbnail_RoomDiffuser_Meok_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001165/6425f2c8-7418-4b6b-889c-1bd2374a83d4/Thumbnail_RoomDiffuser_Meok_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001165\6425f2c8-7418-4b6b-889c-1bd2374a83d4\Thumbnail_RoomDiffuser_Meok_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001165/e3352bb6-ef95-4054-8efb-a34c083feb98/Thumbnail_RoomDiffuser_Meok_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001165\e3352bb6-ef95-4054-8efb-a34c083feb98\Thumbnail_RoomDiffuser_Meok_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001166/057e17dd-62af-4eac-9f88-997d33d3a91b/Thumbnail_RoomDiffuser_mumbud_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001166\057e17dd-62af-4eac-9f88-997d33d3a91b\Thumbnail_RoomDiffuser_mumbud_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001166/0edca26f-d33e-41e6-8b70-9f36907a1d87/Thumbnail_RoomDiffuser_mumbud_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001166\0edca26f-d33e-41e6-8b70-9f36907a1d87\Thumbnail_RoomDiffuser_mumbud_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001166/4a8fa806-8db5-4dd5-b2f1-d52b8c38a9d4/Thumbnail_RoomDiffuser_mumbud_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001166\4a8fa806-8db5-4dd5-b2f1-d52b8c38a9d4\Thumbnail_RoomDiffuser_mumbud_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001166/9a9f35b1-9561-48a1-87aa-5e411976d635/Thumbnail_RoomDiffuser_mumbud_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001166\9a9f35b1-9561-48a1-87aa-5e411976d635\Thumbnail_RoomDiffuser_mumbud_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001167/3aebddda-a116-4aea-8106-822ec2734860/Thumbnail_EggPerfume_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001167\3aebddda-a116-4aea-8106-822ec2734860\Thumbnail_EggPerfume_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001167/f89562ab-caa8-42a0-82ef-5e1e1eba0fdf/Thumbnail_Box_EggPerfume_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001167\f89562ab-caa8-42a0-82ef-5e1e1eba0fdf\Thumbnail_Box_EggPerfume_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001168/25a07d54-eb39-4fa1-8ea0-aac54ced6f8b/thumb_balm_suede.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001168\25a07d54-eb39-4fa1-8ea0-aac54ced6f8b\thumb_balm_suede.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001168/8f60b6ea-6da4-4f89-b944-24b733823a0d/thumb_balm_suede_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001168\8f60b6ea-6da4-4f89-b944-24b733823a0d\thumb_balm_suede_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001168/d1de4f04-9fd0-4721-affd-9818f671c259/thumb_balm_suede.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001168\d1de4f04-9fd0-4721-affd-9818f671c259\thumb_balm_suede.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001168/e4503178-e593-48d2-a774-a9c11e280bb3/thumb_balm_suede.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001168\e4503178-e593-48d2-a774-a9c11e280bb3\thumb_balm_suede.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001181/009486bd-5902-44f9-a77d-58a8910a4316/Thumbnail_RoomSpray_pinenest.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001181\009486bd-5902-44f9-a77d-58a8910a4316\Thumbnail_RoomSpray_pinenest.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001181/1d50a3f6-9af5-45b7-a006-c0baf87c4107/Thumbnail_RoomSpray_Pinenest_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001181\1d50a3f6-9af5-45b7-a006-c0baf87c4107\Thumbnail_RoomSpray_Pinenest_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001181/42d599ed-263a-4e1f-8fd6-36bcd47267eb/Thumbnail_RoomSpray_pinenest_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001181\42d599ed-263a-4e1f-8fd6-36bcd47267eb\Thumbnail_RoomSpray_pinenest_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001181/eefe6989-e410-4af5-8757-9c9047751508/Thumbnail_RoomSpray_pinenest_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001181\eefe6989-e410-4af5-8757-9c9047751508\Thumbnail_RoomSpray_pinenest_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001182/21d2e67c-e4b1-4ebf-9e98-f2b093363bbc/Thumbnail_RoomSpray_papyrus_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001182\21d2e67c-e4b1-4ebf-9e98-f2b093363bbc\Thumbnail_RoomSpray_papyrus_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001182/2db4f4ce-b486-4e6b-b30a-c8843e307d47/Thumbnail_RoomSpray_Papyrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001182\2db4f4ce-b486-4e6b-b30a-c8843e307d47\Thumbnail_RoomSpray_Papyrus.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001182/39ed9585-a6ec-4d0a-9eef-cfeac202c081/Thumbnail_RoomSpray_Papyrus_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001182\39ed9585-a6ec-4d0a-9eef-cfeac202c081\Thumbnail_RoomSpray_Papyrus_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001182/d33cf6a9-1db4-4112-8004-68dde8966bd0/Thumbnail_RoomSpray_Papyrus_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001182\d33cf6a9-1db4-4112-8004-68dde8966bd0\Thumbnail_RoomSpray_Papyrus_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001183/9e144c65-05df-41db-929e-ef07c0d35291/Thumbnail_RoomSpray_Meok_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001183\9e144c65-05df-41db-929e-ef07c0d35291\Thumbnail_RoomSpray_Meok_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001183/a53e390d-0370-4a82-a1e5-e660a87e576d/Thumbnail_RoomSpray_Meok_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001183\a53e390d-0370-4a82-a1e5-e660a87e576d\Thumbnail_RoomSpray_Meok_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001183/aa4dbcd9-7ff2-418b-a5d9-964d7f99de19/Thumbnail_RoomSpray_Meok.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001183\aa4dbcd9-7ff2-418b-a5d9-964d7f99de19\Thumbnail_RoomSpray_Meok.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001183/b127a549-1b84-4191-8763-b0eee8d927f2/Thumbnail_RoomSpray_Meok_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001183\b127a549-1b84-4191-8763-b0eee8d927f2\Thumbnail_RoomSpray_Meok_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001184/0a7d8101-a652-4bc8-a171-b4e59051aefc/Thumbnail_RoomSpray_Mumbud.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001184\0a7d8101-a652-4bc8-a171-b4e59051aefc\Thumbnail_RoomSpray_Mumbud.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001184/185e39f2-376c-4106-8b2c-563ebbeac2bd/Thumbnail_RoomSpray_Mumbud_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001184\185e39f2-376c-4106-8b2c-563ebbeac2bd\Thumbnail_RoomSpray_Mumbud_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001184/5b93e2b6-847a-452c-a355-c17df0280c6f/Thumbnail_RoomSpray_mumbud_2 copy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001184\5b93e2b6-847a-452c-a355-c17df0280c6f\Thumbnail_RoomSpray_mumbud_2 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001184/fde5d8b2-2811-4d2e-89d6-c34cb81840e5/Thumbnail_RoomSpray_Mumbud_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001184\fde5d8b2-2811-4d2e-89d6-c34cb81840e5\Thumbnail_RoomSpray_Mumbud_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001368/2779ea03-e67a-4291-966e-8ecc698aeab3/Thumbnail_Box_Shrybody_duo_earlymorningdue.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001368\2779ea03-e67a-4291-966e-8ecc698aeab3\Thumbnail_Box_Shrybody_duo_earlymorningdue.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001368/2d1a310e-e45a-402a-b87f-123da49831da/Thumbnail_Shrybody_duo_earlymoringdue.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001368\2d1a310e-e45a-402a-b87f-123da49831da\Thumbnail_Shrybody_duo_earlymoringdue.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001368/b5d0c2e7-e036-41b0-949a-50282f3271c9/Thumbnail_Shrybody_duo_earlymoringdue.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001368\b5d0c2e7-e036-41b0-949a-50282f3271c9\Thumbnail_Shrybody_duo_earlymoringdue.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001368/d59a0fbc-abe6-4d08-b957-73a93926b592/Thumbnail_Shrybody_duo_earlymoringdue.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001368\d59a0fbc-abe6-4d08-b957-73a93926b592\Thumbnail_Shrybody_duo_earlymoringdue.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001384/13ce69e2-f4cc-4e14-94e9-98aa7b0ca2d1/Thumbnail03_Evening Glow_Perfume_50ml_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001384\13ce69e2-f4cc-4e14-94e9-98aa7b0ca2d1\Thumbnail03_Evening Glow_Perfume_50ml_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001384/5bb870c2-c1ce-42b5-8260-50bee20bc192/Thumbnail03_Evening Glow_Perfume.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001384\5bb870c2-c1ce-42b5-8260-50bee20bc192\Thumbnail03_Evening Glow_Perfume.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001384/6819b038-2abb-46af-8284-297173d399e4/Thumbnail03_Evening-Glow_frg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001384\6819b038-2abb-46af-8284-297173d399e4\Thumbnail03_Evening-Glow_frg.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001384/ba61027b-9d66-44d6-944f-7e2692843475/Thumbnail03_Evening Glow_Perfume.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001384\ba61027b-9d66-44d6-944f-7e2692843475\Thumbnail03_Evening Glow_Perfume.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001384/c4c5d4a7-2846-4f8b-ada5-22dae807eaa4/Thumbnail03_Evening Glow_Perfume.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001384\c4c5d4a7-2846-4f8b-ada5-22dae807eaa4\Thumbnail03_Evening Glow_Perfume.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001384/e889c573-a0cc-4493-a041-79d2edcdd2e1/thumb_frg_evening_En.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001384\e889c573-a0cc-4493-a041-79d2edcdd2e1\thumb_frg_evening_En.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001385/5a0bdaa3-bc47-42ca-b0ce-bf5518ab956d/thumb_frg_evening_En.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001385\5a0bdaa3-bc47-42ca-b0ce-bf5518ab956d\thumb_frg_evening_En.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001385/6fed6844-2cd9-4d42-94d2-2a2121a55018/Thumbnail03_Evening Glow_Perfume_11ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001385\6fed6844-2cd9-4d42-94d2-2a2121a55018\Thumbnail03_Evening Glow_Perfume_11ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001385/a18b35c2-8d00-461a-bd06-2d6522b3fe2d/Thumbnail03_Evening-Glow_frg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001385\a18b35c2-8d00-461a-bd06-2d6522b3fe2d\Thumbnail03_Evening-Glow_frg.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001385/b2cf1736-58ce-48d5-9394-fefb5e744fd8/Thumbnail03_Evening Glow_Perfume_11ml_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001385\b2cf1736-58ce-48d5-9394-fefb5e744fd8\Thumbnail03_Evening Glow_Perfume_11ml_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001385/c2480f27-3ec8-4cb3-8b43-5961e40f13fa/Thumbnail03_Evening Glow_Perfume_11ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001385\c2480f27-3ec8-4cb3-8b43-5961e40f13fa\Thumbnail03_Evening Glow_Perfume_11ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001385/d4d3222a-66af-4cbf-9e08-912a0b092750/Thumbnail03_Evening Glow_Perfume_11ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001385\d4d3222a-66af-4cbf-9e08-912a0b092750\Thumbnail03_Evening Glow_Perfume_11ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001388/0a1f5023-7d19-49d9-9c5b-5dec65483f11/thumb_frg_evening_En.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001388\0a1f5023-7d19-49d9-9c5b-5dec65483f11\thumb_frg_evening_En.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001388/5318fc25-4c78-4de8-ab54-98910da36225/Thumbnail03_Evening Glow_Shell_15ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001388\5318fc25-4c78-4de8-ab54-98910da36225\Thumbnail03_Evening Glow_Shell_15ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001388/7b382350-7d5f-4107-a9e0-660558dae871/Thumbnail03_Evening-Glow_frg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001388\7b382350-7d5f-4107-a9e0-660558dae871\Thumbnail03_Evening-Glow_frg.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001388/9192f8c6-8bdf-4779-8547-10e6be23fcff/Thumbnail03_Evening Glow_Shell_15ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001388\9192f8c6-8bdf-4779-8547-10e6be23fcff\Thumbnail03_Evening Glow_Shell_15ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001388/b584ea50-e98f-4005-9b2f-ad88a0da60ea/Thumbnail03_Evening Glow_Shell_15ml_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001388\b584ea50-e98f-4005-9b2f-ad88a0da60ea\Thumbnail03_Evening Glow_Shell_15ml_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001388/d469334b-5c31-4f6d-8645-c02070586b69/Thumbnail03_Evening Glow_Shell_15ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001388\d469334b-5c31-4f6d-8645-c02070586b69\Thumbnail03_Evening Glow_Shell_15ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001389/0ab85584-20af-4511-b902-3702c3270eb8/Thumbnail03_Evening Glow_Shell_30ml_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001389\0ab85584-20af-4511-b902-3702c3270eb8\Thumbnail03_Evening Glow_Shell_30ml_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001389/6bb8bbdb-4a7b-4d2a-9c6c-de94ead0c4e1/Thumbnail03_Evening-Glow_frg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001389\6bb8bbdb-4a7b-4d2a-9c6c-de94ead0c4e1\Thumbnail03_Evening-Glow_frg.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001389/d174497b-bb71-48e7-94de-0824186aff84/Thumbnail03_Evening Glow_Shell_30ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001389\d174497b-bb71-48e7-94de-0824186aff84\Thumbnail03_Evening Glow_Shell_30ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001389/de219006-b5a5-4e5b-b6e0-0cbd72eb95dc/Thumbnail03_Evening Glow_Shell_30ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001389\de219006-b5a5-4e5b-b6e0-0cbd72eb95dc\Thumbnail03_Evening Glow_Shell_30ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001389/e12174aa-e7b1-4db1-9036-2a3bc581231e/thumb_frg_evening_En.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001389\e12174aa-e7b1-4db1-9036-2a3bc581231e\thumb_frg_evening_En.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001389/ef44cbc2-5dc5-49c6-9496-931e4151e09b/Thumbnail03_Evening Glow_Shell_30ml.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001389\ef44cbc2-5dc5-49c6-9496-931e4151e09b\Thumbnail03_Evening Glow_Shell_30ml.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001430/29f699d0-1979-4907-a795-5c89624df952/Thumbnail03_Evening Glow_EggBalm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001430\29f699d0-1979-4907-a795-5c89624df952\Thumbnail03_Evening Glow_EggBalm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001430/47e14e73-50f9-4fd5-9ea5-b7a35d5f7c11/Thumbnail03_Evening Glow_EggBalm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001430\47e14e73-50f9-4fd5-9ea5-b7a35d5f7c11\Thumbnail03_Evening Glow_EggBalm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001430/6ab32309-58d5-40c2-b944-b05b3f583f2c/Thumbnail03_Evening-Glow_frg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001430\6ab32309-58d5-40c2-b944-b05b3f583f2c\Thumbnail03_Evening-Glow_frg.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001430/a6d4b66f-97df-40b3-a366-895124957858/Thumbnail03_Evening Glow_Egg_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001430\a6d4b66f-97df-40b3-a366-895124957858\Thumbnail03_Evening Glow_Egg_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001430/ebe8c6ab-1dc7-4aef-8a37-c49cd680512c/Thumbnail03_Evening Glow_EggBalm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001430\ebe8c6ab-1dc7-4aef-8a37-c49cd680512c\Thumbnail03_Evening Glow_EggBalm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001445/00fc7497-bc70-4acc-8ebe-b1d24850bef0/Thumbnail_Box_EggPerfume_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001445\00fc7497-bc70-4acc-8ebe-b1d24850bef0\Thumbnail_Box_EggPerfume_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001445/2c7f6976-a82e-4dc3-878a-643fe9f4e517/Thumbnail_EggPerfume_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001445\2c7f6976-a82e-4dc3-878a-643fe9f4e517\Thumbnail_EggPerfume_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001445/a99f1c97-7b70-4356-a4bc-779a5efcedd8/Thumbnail_EggPerfume_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001445\a99f1c97-7b70-4356-a4bc-779a5efcedd8\Thumbnail_EggPerfume_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001445/d9bb0a6b-b1b5-42b3-9fa3-54aea9e98bb6/Thumbnail_EggPerfume_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001445\d9bb0a6b-b1b5-42b3-9fa3-54aea9e98bb6\Thumbnail_EggPerfume_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001446/430437e0-4c49-48ae-aaa5-3cce137c54ad/Thumbnail03_Evening Glow_Balm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001446\430437e0-4c49-48ae-aaa5-3cce137c54ad\Thumbnail03_Evening Glow_Balm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001446/62b63667-19cf-4315-9d9c-05ca5fba2d2d/Thumbnail03_Evening Glow_Balm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001446\62b63667-19cf-4315-9d9c-05ca5fba2d2d\Thumbnail03_Evening Glow_Balm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001446/6e62e774-1f94-4cdc-973f-a23803041f64/Thumbnail03_Evening Glow_Balm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001446\6e62e774-1f94-4cdc-973f-a23803041f64\Thumbnail03_Evening Glow_Balm.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001446/7e9e9f61-9cd8-4e13-9743-e392cbea743f/Thumbnail03_Evening-Glow_frg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001446\7e9e9f61-9cd8-4e13-9743-e392cbea743f\Thumbnail03_Evening-Glow_frg.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001446/8cfc6430-451b-49e0-bf5d-28d3e3080d3c/Thumbnail03_Evening Glow_Balm_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001446\8cfc6430-451b-49e0-bf5d-28d3e3080d3c\Thumbnail03_Evening Glow_Balm_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001446/a59b51ac-828b-4b02-aadb-7f5ad0b68901/thumb_frg_evening_En.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001446\a59b51ac-828b-4b02-aadb-7f5ad0b68901\thumb_frg_evening_En.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001450/384c744f-cb58-4627-b9a4-7453f233a777/thumb_shell_15_wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001450\384c744f-cb58-4627-b9a4-7453f233a777\thumb_shell_15_wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001450/4e23bde7-6fee-4aa5-96d8-aa043bd07d30/Thumbnail03_Evening Glow_Shell_Wear_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001450\4e23bde7-6fee-4aa5-96d8-aa043bd07d30\Thumbnail03_Evening Glow_Shell_Wear_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001450/6ba41050-6ec6-411c-a985-ea4b4151634f/Thumbnail03_Evening Glow_Shell_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001450\6ba41050-6ec6-411c-a985-ea4b4151634f\Thumbnail03_Evening Glow_Shell_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001450/db31425e-5815-4e31-8a52-ba2dd40239c5/thumb_shell_15_wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001450\db31425e-5815-4e31-8a52-ba2dd40239c5\thumb_shell_15_wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001456/1dc5ef89-a0fd-456f-8db0-5fe7e5399b5e/Thumbnail03_Evening Glow_Egg_Lip Balm_Wear_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001456\1dc5ef89-a0fd-456f-8db0-5fe7e5399b5e\Thumbnail03_Evening Glow_Egg_Lip Balm_Wear_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001456/98be9092-ef2d-4218-b032-9a425c363eff/thumb_lipbalm_wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001456\98be9092-ef2d-4218-b032-9a425c363eff\thumb_lipbalm_wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001456/b6234e65-30a1-432c-81cf-41bce867df41/Thumbnail03_Evening Glow_Egg_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001456\b6234e65-30a1-432c-81cf-41bce867df41\Thumbnail03_Evening Glow_Egg_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001456/f892fdce-7c82-4cfd-98a6-4a1e9a54bd67/thumb_lipbalm_wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001456\f892fdce-7c82-4cfd-98a6-4a1e9a54bd67\thumb_lipbalm_wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001457/09b9e980-441a-4047-92bd-5170aec83fc8/Thumbnail03_Evening Glow_Perfume11_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001457\09b9e980-441a-4047-92bd-5170aec83fc8\Thumbnail03_Evening Glow_Perfume11_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001457/ab12f544-5f79-418b-b849-62ccc0c7d282/Thumbnail03_Evening Glow_Perfume11_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001457\ab12f544-5f79-418b-b849-62ccc0c7d282\Thumbnail03_Evening Glow_Perfume11_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001457/c5f0ecd3-4191-4612-8ece-dcad57eca3fc/Thumbnail03_Evening Glow_Perfume_11ml_Wear_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001457\c5f0ecd3-4191-4612-8ece-dcad57eca3fc\Thumbnail03_Evening Glow_Perfume_11ml_Wear_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001458/138a3569-6020-4d32-af50-4f598d5a7a8a/Thumbnail03_Evening Glow_Balm_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001458\138a3569-6020-4d32-af50-4f598d5a7a8a\Thumbnail03_Evening Glow_Balm_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001458/1fb31fa4-0d73-46d0-8ec0-2bfa869991a0/Thumbnail03_Evening Glow_Balm_Wear_Box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001458\1fb31fa4-0d73-46d0-8ec0-2bfa869991a0\Thumbnail03_Evening Glow_Balm_Wear_Box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12001458/f12075fb-628d-4e84-b437-386fd62bbaec/Thumbnail03_Evening Glow_Balm_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001458\f12075fb-628d-4e84-b437-386fd62bbaec\Thumbnail03_Evening Glow_Balm_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12500370/2c9831c5-c202-409d-8572-82a3dd3b55fb/Thumbnail_shell_15ml_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12500370\2c9831c5-c202-409d-8572-82a3dd3b55fb\Thumbnail_shell_15ml_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12500436/70cde98f-d08f-4ee5-9006-b5bb9d639e0a/Thumbnail_shell_lipbalm_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12500436\70cde98f-d08f-4ee5-9006-b5bb9d639e0a\Thumbnail_shell_lipbalm_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12500436/82b3d9da-37fb-4d31-894f-b703a357a357/Thumbnail_shell_lipbalm_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12500436\82b3d9da-37fb-4d31-894f-b703a357a357\Thumbnail_shell_lipbalm_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12500436/96a04f2a-cfec-471c-a985-98a4a6cb9555/Thumbnail_Box_shell_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12500436\96a04f2a-cfec-471c-a985-98a4a6cb9555\Thumbnail_Box_shell_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/12500436/97efad14-0674-4d75-9f49-ee9a58417313/Thumbnail_shell_lipbalm_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12500436\97efad14-0674-4d75-9f49-ee9a58417313\Thumbnail_shell_lipbalm_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1608604820/19c55574-7fe2-480f-84e8-58bc7cfefa1f/Thumbnail_Box_shell_15ml_fey9_ver2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604820\19c55574-7fe2-480f-84e8-58bc7cfefa1f\Thumbnail_Box_shell_15ml_fey9_ver2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1608604820/2925755f-4ba5-4743-b808-22e341dc58b7/Thumbnail_Box_shell_15ml_fey9_ver2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604820\2925755f-4ba5-4743-b808-22e341dc58b7\Thumbnail_Box_shell_15ml_fey9_ver2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1608604822/2b2f63b9-964e-43d9-aac8-f1d0a508a0bf/Thumbnail_Box_shell_15ml_vein_ver2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604822\2b2f63b9-964e-43d9-aac8-f1d0a508a0bf\Thumbnail_Box_shell_15ml_vein_ver2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1608604822/fca3a4bd-8abd-4cb0-abd7-fae9bbee369a/Thumbnail_Box_shell_15ml_vein_ver2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604822\fca3a4bd-8abd-4cb0-abd7-fae9bbee369a\Thumbnail_Box_shell_15ml_vein_ver2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695801896/757c5840-8b83-484e-91d2-0be36ba919f6/thumb_lipbalm_milktea.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801896\757c5840-8b83-484e-91d2-0be36ba919f6\thumb_lipbalm_milktea.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695801896/e0edc8d7-232c-46dd-9f8b-ca054c01bac2/thumb_lipbalm_milktea.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801896\e0edc8d7-232c-46dd-9f8b-ca054c01bac2\thumb_lipbalm_milktea.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695802162/83daaf6f-8036-4a6f-9543-fc527382caf6/thumb_lipbalm_rose.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802162\83daaf6f-8036-4a6f-9543-fc527382caf6\thumb_lipbalm_rose.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695802162/8d36b57a-0e1c-4960-9a1b-1a2b8f52db8a/thumb_lipbalm_rose.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802162\8d36b57a-0e1c-4960-9a1b-1a2b8f52db8a\thumb_lipbalm_rose.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695802166/97a89594-4a14-4182-90fb-5c3c633ed970/thumb_lipbalm_woody.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802166\97a89594-4a14-4182-90fb-5c3c633ed970\thumb_lipbalm_woody.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695802166/a1c7a137-ffff-43f8-a28a-0e4f281a9eb2/thumb_lipbalm_woody.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802166\a1c7a137-ffff-43f8-a28a-0e4f281a9eb2\thumb_lipbalm_woody.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695802170/048597fa-7082-4e11-bda0-cd2656dabbb7/thumb_lipbalm_unscented.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802170\048597fa-7082-4e11-bda0-cd2656dabbb7\thumb_lipbalm_unscented.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1695802170/6e38efce-c1ca-4b63-ba77-7a52f8a04163/thumb_lipbalm_unscented.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802170\6e38efce-c1ca-4b63-ba77-7a52f8a04163\thumb_lipbalm_unscented.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697616952/2e0c3e01-c45c-4d4c-84c1-449752c20ba5/thumb_perfume_11_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697616952\2e0c3e01-c45c-4d4c-84c1-449752c20ba5\thumb_perfume_11_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697616952/585e5237-bb6e-4430-95b8-7e7b8ed8346f/thumb_perfume_11_chamo_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697616952\585e5237-bb6e-4430-95b8-7e7b8ed8346f\thumb_perfume_11_chamo_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697616952/7b5c631e-16c5-411e-b3bf-4cd88e9f3b6a/thumb_perfume_11_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697616952\7b5c631e-16c5-411e-b3bf-4cd88e9f3b6a\thumb_perfume_11_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697616952/fcd597e7-8604-4bba-9992-1b089f96ca11/thumb_perfume_11_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697616952\fcd597e7-8604-4bba-9992-1b089f96ca11\thumb_perfume_11_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617035/45b37a04-9385-4d4a-81ef-0f427ac32d7f/thumb_perfume_11_Berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617035\45b37a04-9385-4d4a-81ef-0f427ac32d7f\thumb_perfume_11_Berga.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617035/56ff0f59-42a2-48ee-afa4-e0100f979049/thumb_perfume_11_Berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617035\56ff0f59-42a2-48ee-afa4-e0100f979049\thumb_perfume_11_Berga.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617035/a1bbaf5c-1d1f-4409-90a8-e2d4ef52105a/thumb_perfume_11_Berga_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617035\a1bbaf5c-1d1f-4409-90a8-e2d4ef52105a\thumb_perfume_11_Berga_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617035/a3b1a293-b409-447a-8965-109603709e2a/thumb_perfume_11_Berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617035\a3b1a293-b409-447a-8965-109603709e2a\thumb_perfume_11_Berga.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617103/13ad45a0-ca21-43c6-99e4-a031e930bd45/thumb_perfume_11_WhiteDarjeeling_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617103\13ad45a0-ca21-43c6-99e4-a031e930bd45\thumb_perfume_11_WhiteDarjeeling_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617103/45796dc1-b110-4ee6-8a74-54c9f9b0c91c/thumb_perfume_11_WhiteDarjeeling.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617103\45796dc1-b110-4ee6-8a74-54c9f9b0c91c\thumb_perfume_11_WhiteDarjeeling.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617103/9af9ce20-9f99-4dbc-863c-4e510fdf9ba9/thumb_perfume_11_WhiteDarjeeling.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617103\9af9ce20-9f99-4dbc-863c-4e510fdf9ba9\thumb_perfume_11_WhiteDarjeeling.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617103/e260a435-378d-4544-89c1-39a640512428/thumb_perfume_11_WhiteDarjeeling.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617103\e260a435-378d-4544-89c1-39a640512428\thumb_perfume_11_WhiteDarjeeling.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617235/8104fdee-6a95-490f-aa1b-a94bce09a0f1/thumb_perfume_11_BoldCitrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617235\8104fdee-6a95-490f-aa1b-a94bce09a0f1\thumb_perfume_11_BoldCitrus.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617235/aeddee26-2feb-4cd0-8152-6726c337089d/thumb_perfume_11_BoldCitrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617235\aeddee26-2feb-4cd0-8152-6726c337089d\thumb_perfume_11_BoldCitrus.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617235/c08a2d58-d94a-44b7-a7a3-cc1417d9c4fa/thumb_perfume_11_BoldCitrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617235\c08a2d58-d94a-44b7-a7a3-cc1417d9c4fa\thumb_perfume_11_BoldCitrus.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617235/dbf469cc-5216-447b-8ab9-1a928b784bfb/thumb_perfume_11_BoldCitrus_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617235\dbf469cc-5216-447b-8ab9-1a928b784bfb\thumb_perfume_11_BoldCitrus_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617261/2b181a18-a2ba-4764-aa1b-7c76c67826c9/thumb_perfume_11_SaltyVanilla.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617261\2b181a18-a2ba-4764-aa1b-7c76c67826c9\thumb_perfume_11_SaltyVanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617261/33837e8f-ff0b-4b16-be29-29e0d2d1030b/thumb_perfume_11_SaltyVanilla.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617261\33837e8f-ff0b-4b16-be29-29e0d2d1030b\thumb_perfume_11_SaltyVanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617261/9795c8d8-3330-4cda-805e-40e345912006/thumb_perfume_11_SaltyVanilla.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617261\9795c8d8-3330-4cda-805e-40e345912006\thumb_perfume_11_SaltyVanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617261/ad807cff-da9c-4821-a0cc-6eba8d071e2b/thumb_perfume_11_SaltyVanilla_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617261\ad807cff-da9c-4821-a0cc-6eba8d071e2b\thumb_perfume_11_SaltyVanilla_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617270/51741a1a-3a39-4721-93ee-1efa6db49abf/thumb_perfume_11_Bather_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617270\51741a1a-3a39-4721-93ee-1efa6db49abf\thumb_perfume_11_Bather_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617270/595fed97-5d85-438b-a1b6-c0d0e22d7783/thumb_perfume_11_Bather.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617270\595fed97-5d85-438b-a1b6-c0d0e22d7783\thumb_perfume_11_Bather.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617270/9a13f027-5e73-4972-9715-2866f570dff6/thumb_perfume_11_Bather.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617270\9a13f027-5e73-4972-9715-2866f570dff6\thumb_perfume_11_Bather.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697617270/a7756d18-b36d-4415-b225-a13daf2d39f7/thumb_perfume_11_Bather.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697617270\a7756d18-b36d-4415-b225-a13daf2d39f7\thumb_perfume_11_Bather.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697693723/78de0c05-0841-481a-83d5-3a20ac2940c8/Thumbnail_Box_PerfumeCandle_200g_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693723\78de0c05-0841-481a-83d5-3a20ac2940c8\Thumbnail_Box_PerfumeCandle_200g_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697693826/36a91a30-c300-4168-a2c2-3483a52ed48b/Thumbnail_Box_PerfumeCandle_200g_holy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693826\36a91a30-c300-4168-a2c2-3483a52ed48b\Thumbnail_Box_PerfumeCandle_200g_holy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697693830/bd9644c7-a3ca-4a23-a238-9d142e9d3ffd/Thumbnail_Box_PerfumeCandle_200g_late.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693830\bd9644c7-a3ca-4a23-a238-9d142e9d3ffd\Thumbnail_Box_PerfumeCandle_200g_late.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697693830/f78bf83b-063d-4f0c-98c8-4e1ec4f2d28d/Thumbnail_PerfumeCandle_200g_late.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693830\f78bf83b-063d-4f0c-98c8-4e1ec4f2d28d\Thumbnail_PerfumeCandle_200g_late.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697693834/1ec929b8-fdb5-402e-b136-7544ebb9eb77/Thumbnail_Box_PerfumeCandle_200g_bather.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693834\1ec929b8-fdb5-402e-b136-7544ebb9eb77\Thumbnail_Box_PerfumeCandle_200g_bather.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1697693842/cae3250c-e490-460b-9231-2e235ea424da/Thumbnail_Box_PerfumeCandle_60g_Set.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693842\cae3250c-e490-460b-9231-2e235ea424da\Thumbnail_Box_PerfumeCandle_60g_Set.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940111/13ee8e37-fde1-4e21-b99a-3d4ea0f527ec/thumb_balm_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940111\13ee8e37-fde1-4e21-b99a-3d4ea0f527ec\thumb_balm_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940111/495d3d09-fafd-407d-8c4b-6de50027c248/thumb_balm_pumkini_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940111\495d3d09-fafd-407d-8c4b-6de50027c248\thumb_balm_pumkini_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940111/b2432103-9bfe-4832-b7d2-c2ac8c3546d9/thumb_balm_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940111\b2432103-9bfe-4832-b7d2-c2ac8c3546d9\thumb_balm_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940111/d88b0dfd-9d4a-4545-bbaa-c4811c936a85/thumb_balm_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940111\d88b0dfd-9d4a-4545-bbaa-c4811c936a85\thumb_balm_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940112/01050835-a093-462c-8fd8-a4d1565023e0/thumb_balm_holy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940112\01050835-a093-462c-8fd8-a4d1565023e0\thumb_balm_holy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940112/3c3ca5e5-21e3-4edd-bb32-b1fb0b876d65/thumb_balm_holy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940112\3c3ca5e5-21e3-4edd-bb32-b1fb0b876d65\thumb_balm_holy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940112/5acce132-8552-4b9a-81f2-6b24be58a406/thumb_balm_holy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940112\5acce132-8552-4b9a-81f2-6b24be58a406\thumb_balm_holy.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940112/f2615809-5a1c-4033-ac3a-7cdbe6ad2131/thumb_balm_holy_box.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940112\f2615809-5a1c-4033-ac3a-7cdbe6ad2131\thumb_balm_holy_box.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940122/0aec683b-d299-4d31-8eba-9b9f1c110c0e/Thumbnail_shell_chamo_vein_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940122\0aec683b-d299-4d31-8eba-9b9f1c110c0e\Thumbnail_shell_chamo_vein_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940122/963c4cd4-306f-470b-9397-b736c4bf6442/Thumbnail_Box_shell_chamo_vein_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940122\963c4cd4-306f-470b-9397-b736c4bf6442\Thumbnail_Box_shell_chamo_vein_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1701940122/ed79fd40-3856-46f3-acd9-990f26fbdeb9/Thumbnail_shell_chamo_vein_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940122\ed79fd40-3856-46f3-acd9-990f26fbdeb9\Thumbnail_shell_chamo_vein_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1722263485/6e32275e-3b75-4107-9951-e78367b132cf/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1722263485\6e32275e-3b75-4107-9951-e78367b132cf\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1722263485/8a68f07d-ea96-417e-8757-f16e3251f437/Thumbnail_Box_cardiffuser_lilycoco.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1722263485\8a68f07d-ea96-417e-8757-f16e3251f437\Thumbnail_Box_cardiffuser_lilycoco.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1722263485/9c4a1a9b-862c-48b2-beb5-2cadc00ea039/Thumbnail_cardiffuser_lilycoco.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1722263485\9c4a1a9b-862c-48b2-beb5-2cadc00ea039\Thumbnail_cardiffuser_lilycoco.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1722263485/f382334d-b2d0-4614-a6fa-81dee74aac77/CarDiffuser_Lilycoco.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1722263485\f382334d-b2d0-4614-a6fa-81dee74aac77\CarDiffuser_Lilycoco.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1733387658/3e22288a-5f89-4b56-9206-b3042f8ba3a2/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1733387658\3e22288a-5f89-4b56-9206-b3042f8ba3a2\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1733387658/4a0153b1-71d9-4ea0-a2c0-d5b5e2d25c8a/Thumbnail_Box_cardiffuser_chamo.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1733387658\4a0153b1-71d9-4ea0-a2c0-d5b5e2d25c8a\Thumbnail_Box_cardiffuser_chamo.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1733387658/fbc2aeda-b496-4aeb-8e69-b4e937921415/Thumbnail_cardiffuser_chamo.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1733387658\fbc2aeda-b496-4aeb-8e69-b4e937921415\Thumbnail_cardiffuser_chamo.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1733387658/fecbdb7b-94fb-44f1-96c0-9b4838070424/CarDiffuser_Chamo.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1733387658\fecbdb7b-94fb-44f1-96c0-9b4838070424\CarDiffuser_Chamo.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1744451785/0f511e96-3e24-4903-bccc-c08e64ee20b6/Thumbnail_Box_cardiffuser_blueforest.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1744451785\0f511e96-3e24-4903-bccc-c08e64ee20b6\Thumbnail_Box_cardiffuser_blueforest.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1744451785/735b43d0-ba30-4311-96d1-717efe8e8159/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1744451785\735b43d0-ba30-4311-96d1-717efe8e8159\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1744451785/cbd0bc3a-d985-4446-a2a8-dbd89f9c19dd/CarDiffuser_BlueForest.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1744451785\cbd0bc3a-d985-4446-a2a8-dbd89f9c19dd\CarDiffuser_BlueForest.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1744451785/f7c7b555-6b57-43b6-aace-b8152f5070c8/Thumbnail_cardiffuser_blueforset.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1744451785\f7c7b555-6b57-43b6-aace-b8152f5070c8\Thumbnail_cardiffuser_blueforset.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1745699988/36901f6f-2c8e-4458-a6c8-5853765cf0b4/CarDiffuser_Bigarico.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1745699988\36901f6f-2c8e-4458-a6c8-5853765cf0b4\CarDiffuser_Bigarico.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1745699988/b6f985ea-9ba1-40dc-85ee-d3922a0bc662/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1745699988\b6f985ea-9ba1-40dc-85ee-d3922a0bc662\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1755548542/33a21fb2-479d-46c9-864a-ddcbff6f5842/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1755548542\33a21fb2-479d-46c9-864a-ddcbff6f5842\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1765659863/9813506a-2b5a-4563-8ddf-a93ba8de389e/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1765659863\9813506a-2b5a-4563-8ddf-a93ba8de389e\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1766698546/39766d88-8844-4dca-8afe-87a977d263e7/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1766698546\39766d88-8844-4dca-8afe-87a977d263e7\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1766698546/90d4a1d7-b7f4-435f-9689-e39e132d3d84/Thumbnail_cardiffuser_refill_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1766698546\90d4a1d7-b7f4-435f-9689-e39e132d3d84\Thumbnail_cardiffuser_refill_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/1788878968/40588728-64a8-459b-bcf7-29410e62cc79/Thumbnail_Use_En.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1788878968\40588728-64a8-459b-bcf7-29410e62cc79\Thumbnail_Use_En.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/false/53e1bc62-aaa9-4d56-b0e1-26061ce1263e/Thumbnail03_Evening Glow_Balm_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\false\53e1bc62-aaa9-4d56-b0e1-26061ce1263e\Thumbnail03_Evening Glow_Balm_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/catalog/product/false/fe36e37e-fbb3-4809-a7b2-5020c4c03376/Thumbnail03_Evening Glow_Perfume11_Wear.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\false\fe36e37e-fbb3-4809-a7b2-5020c4c03376\Thumbnail03_Evening Glow_Perfume11_Wear.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/android-icon-192_192.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\android-icon-192_192.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/android-icon-32_32.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\android-icon-32_32.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-114_114.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-114_114.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-120_120.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-120_120.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-144_144.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-144_144.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-152_152.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-152_152.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-180_180.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-180_180.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-57_57.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-57_57.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-60_60.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-60_60.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-72_72.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-72_72.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/apple-icon-76_76.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\apple-icon-76_76.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/common/favicon/favicon-16_16.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\common\favicon\favicon-16_16.png
+Content Type: image/png
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/mainbanner/251197c9-ea5b-461b-a9ab-c24969b88566/pc_main_banner_half_left.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\mainbanner\251197c9-ea5b-461b-a9ab-c24969b88566\pc_main_banner_half_left.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/mainbanner/2cf1f62f-acd0-47ad-8ec2-4630c0c817b6/pc_main_banner_half_right.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\mainbanner\2cf1f62f-acd0-47ad-8ec2-4630c0c817b6\pc_main_banner_half_right.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/024db69e-cb8f-4c7b-875b-3c8c7312782d/store_aoyama_new_5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\024db69e-cb8f-4c7b-875b-3c8c7312782d\store_aoyama_new_5.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/04f83236-aa04-4edd-b453-76b8fb9c4af6/store_aoyama_new_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\04f83236-aa04-4edd-b453-76b8fb9c4af6\store_aoyama_new_7.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/053f60f3-884e-45bb-a781-905b690bd265/store_aoyama_new_1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\053f60f3-884e-45bb-a781-905b690bd265\store_aoyama_new_1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/05ae09b6-d32d-45d9-811a-fb8d10efb897/Haus240901-0371-1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\05ae09b6-d32d-45d9-811a-fb8d10efb897\Haus240901-0371-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/180904e2-cc5d-4dee-a34c-a26077a42862/Osaka_Hankyu_1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\180904e2-cc5d-4dee-a34c-a26077a42862\Osaka_Hankyu_1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/3aa8bda2-f333-4474-bfe1-1bd5c63732c2/Osaka_Hankyu_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\3aa8bda2-f333-4474-bfe1-1bd5c63732c2\Osaka_Hankyu_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/3b39df63-3f01-4399-9c3c-3b950cdb9321/store_hannam_09.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\3b39df63-3f01-4399-9c3c-3b950cdb9321\store_hannam_09.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/4505a29a-4c31-45b8-a8e9-23db89728bb1/store_hannam_03.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\4505a29a-4c31-45b8-a8e9-23db89728bb1\store_hannam_03.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/4fbcbb8b-4597-4069-add7-6c3a28a39872/store_hannam_08.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\4fbcbb8b-4597-4069-add7-6c3a28a39872\store_hannam_08.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/521d2cb7-a44f-445a-8f30-b999537c2e42/ShanghaiFS_07.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\521d2cb7-a44f-445a-8f30-b999537c2e42\ShanghaiFS_07.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/5d3e29cb-1409-4a91-a549-3d4914be065d/store_aoyama_new_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\5d3e29cb-1409-4a91-a549-3d4914be065d\store_aoyama_new_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/769b8cba-799e-406a-8966-5b1ce8d92b9f/store_hannam_05.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\769b8cba-799e-406a-8966-5b1ce8d92b9f\store_hannam_05.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/8152dbfd-1a4f-4f7d-ae49-7e4be256a0cf/store_hannam_02.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\8152dbfd-1a4f-4f7d-ae49-7e4be256a0cf\store_hannam_02.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/88e5491a-21d4-4111-bddd-7d783e9d743d/store_hannam_04.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\88e5491a-21d4-4111-bddd-7d783e9d743d\store_hannam_04.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/8992351f-4e5b-4d0e-9c6c-c00dce314e1e/ShanghaiFS_08.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\8992351f-4e5b-4d0e-9c6c-c00dce314e1e\ShanghaiFS_08.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/8a4d3a19-9edb-4c1d-9170-e9f2aa2b5930/store_aoyama_new_3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\8a4d3a19-9edb-4c1d-9170-e9f2aa2b5930\store_aoyama_new_3.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/995852b7-3aae-4293-a81c-882955d5c90c/store_aoyama_new_4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\995852b7-3aae-4293-a81c-882955d5c90c\store_aoyama_new_4.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/af45385f-097c-464c-80eb-f77c38eeeabc/ShanghaiFS_10.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\af45385f-097c-464c-80eb-f77c38eeeabc\ShanghaiFS_10.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/b10ca9f2-bc86-4396-ba85-297c3877c360/Haus240901-0303-1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\b10ca9f2-bc86-4396-ba85-297c3877c360\Haus240901-0303-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/b3489770-72e1-4dff-8e4f-fa8413c3ec10/store_hannam_10.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\b3489770-72e1-4dff-8e4f-fa8413c3ec10\store_hannam_10.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/b3deeb98-d453-4dd7-bf78-f842d625f680/Haus240901-0352-1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\b3deeb98-d453-4dd7-bf78-f842d625f680\Haus240901-0352-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/b641369e-cc9f-46dc-840c-840e6e10545e/store_aoyama_new_6.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\b641369e-cc9f-46dc-840c-840e6e10545e\store_aoyama_new_6.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/bb15801f-36ea-4848-9d07-b0aff87fbe72/ShanghaiFS_05.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\bb15801f-36ea-4848-9d07-b0aff87fbe72\ShanghaiFS_05.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/c212404c-3e5e-4486-8726-2eabc0640d9b/ShanghaiFS_09.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\c212404c-3e5e-4486-8726-2eabc0640d9b\ShanghaiFS_09.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/c4ca04ff-f9c3-4c54-a9c7-0c9bf844cb0e/ShanghaiFS_03.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\c4ca04ff-f9c3-4c54-a9c7-0c9bf844cb0e\ShanghaiFS_03.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/c6562893-5df2-4470-b5e3-5c817390a2f1/Haus240901-0367.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\c6562893-5df2-4470-b5e3-5c817390a2f1\Haus240901-0367.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/c84fdb87-63d3-43e8-acf9-f3ff0d3c2e1d/store_hannam_06.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\c84fdb87-63d3-43e8-acf9-f3ff0d3c2e1d\store_hannam_06.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/category.jpg/922d3fa8-c571-44bb-b246-c344cd656e25/category.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\category.jpg\922d3fa8-c571-44bb-b246-c344cd656e25\category.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/cf1ea609-4f2b-4bf6-a863-93a90b68cc64/Haus240901-0308-1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\cf1ea609-4f2b-4bf6-a863-93a90b68cc64\Haus240901-0308-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/daa4cafa-e0f2-4e95-89da-2395a04bb047/Haus240901-0357-1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\daa4cafa-e0f2-4e95-89da-2395a04bb047\Haus240901-0357-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/e301f532-7c0d-43e3-a6b6-337b6ad75c03/ShanghaiFS_06.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\e301f532-7c0d-43e3-a6b6-337b6ad75c03\ShanghaiFS_06.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/e5446897-013b-4b5c-b943-4bc25d2c389f/ShanghaiFS_04.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\e5446897-013b-4b5c-b943-4bc25d2c389f\ShanghaiFS_04.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/e6b904fa-1ad9-4c00-89f0-d1837e87f1ca/Haus240901-0303__crop.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\e6b904fa-1ad9-4c00-89f0-d1837e87f1ca\Haus240901-0303__crop.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/efa1328f-67ae-4dcd-86fd-5850c2dc1849/store_hannam_01.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\efa1328f-67ae-4dcd-86fd-5850c2dc1849\store_hannam_01.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/f13b7be9-bec8-4566-8bb1-371fc34cbdb4/ShanghaiFS_01.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\f13b7be9-bec8-4566-8bb1-371fc34cbdb4\ShanghaiFS_01.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/f1820d04-3cc6-484f-8210-2e0ec6f12449/ShanghaiFS_02.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\f1820d04-3cc6-484f-8210-2e0ec6f12449\ShanghaiFS_02.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/f2747ddc-5840-4844-9a82-e6cf64b6e708/ShanghaiFS_11.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\f2747ddc-5840-4844-9a82-e6cf64b6e708\ShanghaiFS_11.jpg
+Content Type: image/jpeg
+
+Uri: https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/store/store/ff43a242-8b94-47c0-bde8-7a1c9eb99434/store_hannam_07.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\ff43a242-8b94-47c0-bde8-7a1c9eb99434\store_hannam_07.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/12001203/12186602-5ffb-4daf-9627-5d760d1c52ff/Thumbnail_EggPerfume_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001203\12186602-5ffb-4daf-9627-5d760d1c52ff\Thumbnail_EggPerfume_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/12001203/78563fe3-7654-4264-8e05-0c4f4e4c434f/Thumbnail_EggPerfume_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\12001203\78563fe3-7654-4264-8e05-0c4f4e4c434f\Thumbnail_EggPerfume_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1504792781/62afe28f-a6b2-47c6-bda7-315030b79f24/Thumbnail_ChainHand_65ml_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1504792781\62afe28f-a6b2-47c6-bda7-315030b79f24\Thumbnail_ChainHand_65ml_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1504792781/bb74101c-120c-4cbc-88bd-7acdf9bbe528/Thumbnail_ChainHand_65ml_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1504792781\bb74101c-120c-4cbc-88bd-7acdf9bbe528\Thumbnail_ChainHand_65ml_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1504792781/fa6252d2-9748-4c91-b29c-e1a87a92b839/Thumbnail_Box_ChainHand_65ml_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1504792781\fa6252d2-9748-4c91-b29c-e1a87a92b839\Thumbnail_Box_ChainHand_65ml_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1544597707/35d6ce08-a52f-4af9-b13c-469544798534/Thumbnail_ChainHand_65ml_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1544597707\35d6ce08-a52f-4af9-b13c-469544798534\Thumbnail_ChainHand_65ml_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1544597707/36ed0c3e-108b-4dd0-850a-e4a41c6f4e20/Thumbnail_Box_ChainHand_65ml_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1544597707\36ed0c3e-108b-4dd0-850a-e4a41c6f4e20\Thumbnail_Box_ChainHand_65ml_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1544597707/3d369fa8-650c-496f-b5d5-e630e59d9a0e/Thumbnail_ChainHand_65ml_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1544597707\3d369fa8-650c-496f-b5d5-e630e59d9a0e\Thumbnail_ChainHand_65ml_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1568791598/3b672f9f-7731-4d75-b682-7b42b327ec82/Thumbnail_Box_ChainHand_30ml_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1568791598\3b672f9f-7731-4d75-b682-7b42b327ec82\Thumbnail_Box_ChainHand_30ml_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1568791598/9bbab688-75ed-428e-804e-849c589771bf/Thumbnail_ChainHand_30ml_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1568791598\9bbab688-75ed-428e-804e-849c589771bf\Thumbnail_ChainHand_30ml_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1568791598/b710d30f-2f96-4590-bae5-b8867be3a9a2/Thumbnail_ChainHand_30ml_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1568791598\b710d30f-2f96-4590-bae5-b8867be3a9a2\Thumbnail_ChainHand_30ml_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1568791887/49ccaf88-1c68-4d6c-85a2-3fdc39c0a1b8/Thumbnail_Box_ChainHand_30ml_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1568791887\49ccaf88-1c68-4d6c-85a2-3fdc39c0a1b8\Thumbnail_Box_ChainHand_30ml_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1568791887/c6338aa6-c475-41cf-92c8-8e74be1bd666/Thumbnail_ChainHand_30ml_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1568791887\c6338aa6-c475-41cf-92c8-8e74be1bd666\Thumbnail_ChainHand_30ml_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1568791887/d7460584-4581-4d4a-b705-524445f4b341/Thumbnail_ChainHand_30ml_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1568791887\d7460584-4581-4d4a-b705-524445f4b341\Thumbnail_ChainHand_30ml_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604816/46efa7e8-986d-41b6-b354-efd790f462b7/Thumbnail_shell_15ml_her.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604816\46efa7e8-986d-41b6-b354-efd790f462b7\Thumbnail_shell_15ml_her.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604816/8ed812ac-a342-43a7-a0a7-5292b7dfd6a7/Thumbnail_Box_shell_15ml_her.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604816\8ed812ac-a342-43a7-a0a7-5292b7dfd6a7\Thumbnail_Box_shell_15ml_her.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604816/cf4c101c-c0d8-4bae-a89b-9561155f9156/Thumbnail_shell_15ml_her.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604816\cf4c101c-c0d8-4bae-a89b-9561155f9156\Thumbnail_shell_15ml_her.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604820/50f31d1f-9451-4d11-9b0a-f2a84e7a7519/Thumbnail_Box_shell_15ml_fey9.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604820\50f31d1f-9451-4d11-9b0a-f2a84e7a7519\Thumbnail_Box_shell_15ml_fey9.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604820/56f22848-14e9-4f29-aeb5-8c576d501dfa/Thumbnail_shell_15ml_fey9.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604820\56f22848-14e9-4f29-aeb5-8c576d501dfa\Thumbnail_shell_15ml_fey9.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604822/54da094a-a0a8-43a7-9209-13ddb7ab8e55/Thumbnail_Box_shell_15ml_vein.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604822\54da094a-a0a8-43a7-9209-13ddb7ab8e55\Thumbnail_Box_shell_15ml_vein.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1608604822/f39e1331-9bec-4630-9b7c-0fd9d9472f1b/Thumbnail_shell_15ml_vein.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1608604822\f39e1331-9bec-4630-9b7c-0fd9d9472f1b\Thumbnail_shell_15ml_vein.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1612860429/034c510f-029d-4e20-bbbb-762237d4e29a/Thumbnail_Box__PerfumedHand_Emul_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1612860429\034c510f-029d-4e20-bbbb-762237d4e29a\Thumbnail_Box__PerfumedHand_Emul_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1612860429/9eaa0ebb-e1d1-49f0-9f48-cb1ac7169be3/Thumbnail_PerfumedHand_Emul_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1612860429\9eaa0ebb-e1d1-49f0-9f48-cb1ac7169be3\Thumbnail_PerfumedHand_Emul_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1612860429/d6f82d45-111d-4871-b8f3-8e007967fb5c/Thumbnail_PerfumedHand_Emul_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1612860429\d6f82d45-111d-4871-b8f3-8e007967fb5c\Thumbnail_PerfumedHand_Emul_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1614063075/8bd1a478-6a08-4c8d-aac6-1de1459838dd/Thumbnail_Box__PerfumedHand_Emul_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1614063075\8bd1a478-6a08-4c8d-aac6-1de1459838dd\Thumbnail_Box__PerfumedHand_Emul_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1614063075/9f080db2-520a-4bc4-8f0f-57642ae519ae/Thumbnail_PerfumedHand_Emul_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1614063075\9f080db2-520a-4bc4-8f0f-57642ae519ae\Thumbnail_PerfumedHand_Emul_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1614063075/d77a4563-7bb9-4b40-8675-8b815c961752/Thumbnail_PerfumedHand_Emul_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1614063075\d77a4563-7bb9-4b40-8675-8b815c961752\Thumbnail_PerfumedHand_Emul_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1614063580/6f254265-63bb-4823-a06b-6aaf004f2d30/Thumbnail_PerfumedHand_Emul_712.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1614063580\6f254265-63bb-4823-a06b-6aaf004f2d30\Thumbnail_PerfumedHand_Emul_712.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1614063580/9995b2c1-4de0-4138-b35b-dbc12a3144d4/Thumbnail_PerfumedHand_Emul_712.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1614063580\9995b2c1-4de0-4138-b35b-dbc12a3144d4\Thumbnail_PerfumedHand_Emul_712.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1614063580/df7231f4-0abd-49a4-9036-91e13e8954c3/Thumbnail_Box__PerfumedHand_Emul_712.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1614063580\df7231f4-0abd-49a4-9036-91e13e8954c3\Thumbnail_Box__PerfumedHand_Emul_712.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1630632738/03953e10-90fd-470d-ae3a-29663fe0801b/Thumbnail_ChainHand_30ml_421.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1630632738\03953e10-90fd-470d-ae3a-29663fe0801b\Thumbnail_ChainHand_30ml_421.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1630632738/057530c4-aabe-49cb-99aa-41d0cc57e884/Thumbnail_Box_ChainHand_30ml_421.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1630632738\057530c4-aabe-49cb-99aa-41d0cc57e884\Thumbnail_Box_ChainHand_30ml_421.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1630632738/d3f0c7a4-5f54-4d5d-b28d-ffd21308150e/Thumbnail_ChainHand_30ml_421.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1630632738\d3f0c7a4-5f54-4d5d-b28d-ffd21308150e\Thumbnail_ChainHand_30ml_421.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1630632842/0a83147a-2243-4cdc-8ede-befebecb595b/Thumbnail_ChainHand_65ml_421.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1630632842\0a83147a-2243-4cdc-8ede-befebecb595b\Thumbnail_ChainHand_65ml_421.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1630632842/6ed57a48-367e-4f50-aca5-4b385cb2afd0/Thumbnail_Box_ChainHand_65ml_421.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1630632842\6ed57a48-367e-4f50-aca5-4b385cb2afd0\Thumbnail_Box_ChainHand_65ml_421.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1630632842/eb0b60bb-73e2-4d5d-bfac-6d9ce6a1cefb/Thumbnail_ChainHand_65ml_421.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1630632842\eb0b60bb-73e2-4d5d-bfac-6d9ce6a1cefb\Thumbnail_ChainHand_65ml_421.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1649738877/2c9c88d2-499d-4c02-89e5-bb6c00fdea29/Thumbnail_PerfumedHand_Duo_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1649738877\2c9c88d2-499d-4c02-89e5-bb6c00fdea29\Thumbnail_PerfumedHand_Duo_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1649738877/3d03d862-aa8b-4c3e-a52a-9a0d14881a53/Thumbnail_Box_PerfumedHand_Duo_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1649738877\3d03d862-aa8b-4c3e-a52a-9a0d14881a53\Thumbnail_Box_PerfumedHand_Duo_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1649738877/82d1c5cc-7ad7-4b77-be09-cbe0ee20ed14/Thumbnail_PerfumedHand_Duo_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1649738877\82d1c5cc-7ad7-4b77-be09-cbe0ee20ed14\Thumbnail_PerfumedHand_Duo_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652762893/ce08e093-1260-4984-96a5-eda8945d52e9/Thumbnail_Shrybody_wash200_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652762893\ce08e093-1260-4984-96a5-eda8945d52e9\Thumbnail_Shrybody_wash200_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652762893/d360008b-50fe-4d3d-a160-34349fcc78ba/Thumbnail_Box_Shrybody_wash200_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652762893\d360008b-50fe-4d3d-a160-34349fcc78ba\Thumbnail_Box_Shrybody_wash200_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652762893/f68f32f2-35c6-4bbe-9dc8-1d4c3dc6399c/Thumbnail_Shrybody_wash200_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652762893\f68f32f2-35c6-4bbe-9dc8-1d4c3dc6399c\Thumbnail_Shrybody_wash200_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764365/7f21a505-1672-4d7c-ba6d-b42624bcf4c7/Thumbnail_Shrybody_wash200_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764365\7f21a505-1672-4d7c-ba6d-b42624bcf4c7\Thumbnail_Shrybody_wash200_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764365/91f4f3da-49ef-458d-9573-8d86bbfcb6af/Thumbnail_Box_Shrybody_wash200_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764365\91f4f3da-49ef-458d-9573-8d86bbfcb6af\Thumbnail_Box_Shrybody_wash200_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764365/b65663d0-d38a-4470-a449-c466e376ea88/Thumbnail_Shrybody_wash200_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764365\b65663d0-d38a-4470-a449-c466e376ea88\Thumbnail_Shrybody_wash200_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764708/198a7847-1ea9-49aa-9cb5-ce529acf26a8/Thumbnail_Shrybody_wash200_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764708\198a7847-1ea9-49aa-9cb5-ce529acf26a8\Thumbnail_Shrybody_wash200_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764708/6fc75366-e124-47a7-ae94-11e5cb28443b/Thumbnail_Box_Shrybody_wash200_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764708\6fc75366-e124-47a7-ae94-11e5cb28443b\Thumbnail_Box_Shrybody_wash200_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764708/d753bb26-68da-493e-abfa-5d40aded70b9/Thumbnail_Shrybody_wash200_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764708\d753bb26-68da-493e-abfa-5d40aded70b9\Thumbnail_Shrybody_wash200_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764906/2b10a41a-44c9-49a6-a0e4-5916fcdf4c42/Thumbnail_Shrybody_wash200_storm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764906\2b10a41a-44c9-49a6-a0e4-5916fcdf4c42\Thumbnail_Shrybody_wash200_storm.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764906/82ef4c73-ef3d-4ae9-bc4f-4827c51e388c/Thumbnail_Box_Shrybody_wash200_storm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764906\82ef4c73-ef3d-4ae9-bc4f-4827c51e388c\Thumbnail_Box_Shrybody_wash200_storm.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652764906/c05be5d9-8db0-4377-be35-dbbd1001bd7c/Thumbnail_Shrybody_wash200_storm.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652764906\c05be5d9-8db0-4377-be35-dbbd1001bd7c\Thumbnail_Shrybody_wash200_storm.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652765105/29627384-d731-454c-9efe-2f75f163cb0e/Thumbnail_Shrybody_lotion200_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652765105\29627384-d731-454c-9efe-2f75f163cb0e\Thumbnail_Shrybody_lotion200_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652765105/397880e7-f466-41cb-8955-7093a4b88b10/Thumbnail_Shrybody_lotion200_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652765105\397880e7-f466-41cb-8955-7093a4b88b10\Thumbnail_Shrybody_lotion200_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652765105/523e2db3-9655-4a2b-9324-fe56e1b8b5d1/Thumbnail_Box_Shrybody_lotion200_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652765105\523e2db3-9655-4a2b-9324-fe56e1b8b5d1\Thumbnail_Box_Shrybody_lotion200_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652765573/01ddb1dd-f279-4400-a964-df860c4401cc/Thumbnail_Box_Shrybody_duo_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652765573\01ddb1dd-f279-4400-a964-df860c4401cc\Thumbnail_Box_Shrybody_duo_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652765573/11855a6c-9685-464c-a069-e8a1d33a99bf/Thumbnail_Shrybody_duo_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652765573\11855a6c-9685-464c-a069-e8a1d33a99bf\Thumbnail_Shrybody_duo_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1652765573/dcf42ce8-d840-4857-8e5a-cf3eb0dfee99/Thumbnail_Shrybody_duo_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1652765573\dcf42ce8-d840-4857-8e5a-cf3eb0dfee99\Thumbnail_Shrybody_duo_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877321/31adec22-8d4d-4864-a722-9927597bd700/Thumbnail_Shrybody_wash400_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877321\31adec22-8d4d-4864-a722-9927597bd700\Thumbnail_Shrybody_wash400_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877321/7de47ada-7d7c-44db-b3b4-e453f19fc3e0/Thumbnail_Shrybody_wash400_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877321\7de47ada-7d7c-44db-b3b4-e453f19fc3e0\Thumbnail_Shrybody_wash400_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877321/b3a910e0-ccb0-4fd8-b64c-0b946f8bb18e/Thumbnail_Box_Shrybody_wash400_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877321\b3a910e0-ccb0-4fd8-b64c-0b946f8bb18e\Thumbnail_Box_Shrybody_wash400_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877388/1c673af9-2173-46a5-92b8-f3f47da0e443/Thumbnail_Shrybody_wash400_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877388\1c673af9-2173-46a5-92b8-f3f47da0e443\Thumbnail_Shrybody_wash400_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877388/93e926c1-30d1-4dd6-890d-4cc27c91cefb/Thumbnail_Shrybody_wash400_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877388\93e926c1-30d1-4dd6-890d-4cc27c91cefb\Thumbnail_Shrybody_wash400_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877388/c7bf0ec2-7d93-4e79-8d4b-1a0eee01e452/Thumbnail_Box_Shrybody_wash400_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877388\c7bf0ec2-7d93-4e79-8d4b-1a0eee01e452\Thumbnail_Box_Shrybody_wash400_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877408/8bfd0807-371b-4b8d-b3fc-aecd18cd5c43/Thumbnail_Box_Shrybody_wash400_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877408\8bfd0807-371b-4b8d-b3fc-aecd18cd5c43\Thumbnail_Box_Shrybody_wash400_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877408/8c69a6f6-d58f-426a-9388-385f7446fba7/Thumbnail_Shrybody_wash400_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877408\8c69a6f6-d58f-426a-9388-385f7446fba7\Thumbnail_Shrybody_wash400_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877408/8d39cb12-b2fa-4ac1-be1f-2780ac69b575/Thumbnail_Shrybody_wash400_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877408\8d39cb12-b2fa-4ac1-be1f-2780ac69b575\Thumbnail_Shrybody_wash400_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877450/80b67a19-ef3e-40f1-bc7b-3a5553fd6047/Thumbnail_Shrybody_lotion400_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877450\80b67a19-ef3e-40f1-bc7b-3a5553fd6047\Thumbnail_Shrybody_lotion400_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877450/bb137a87-206f-4805-a896-84ba88d1a2ea/Thumbnail_Shrybody_lotion400_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877450\bb137a87-206f-4805-a896-84ba88d1a2ea\Thumbnail_Shrybody_lotion400_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1653877450/ffa20d10-95e2-4939-9912-7ccad350d620/Thumbnail_Box_Shrybody_lotion400_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1653877450\ffa20d10-95e2-4939-9912-7ccad350d620\Thumbnail_Box_Shrybody_lotion400_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1660720704/18a036b3-28f5-4463-8645-7017053d1f20/Thumbnail_Shrybody_lotion400_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1660720704\18a036b3-28f5-4463-8645-7017053d1f20\Thumbnail_Shrybody_lotion400_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1660720704/528a5aaa-e769-49b9-9fe0-20c497ff118c/Thumbnail_Shrybody_lotion400_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1660720704\528a5aaa-e769-49b9-9fe0-20c497ff118c\Thumbnail_Shrybody_lotion400_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1660720704/f50074b0-d1e6-46a7-a126-28089899941c/Thumbnail_Box_Shrybody_lotion400_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1660720704\f50074b0-d1e6-46a7-a126-28089899941c\Thumbnail_Box_Shrybody_lotion400_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1660722037/1f91a452-a4f6-4ab9-a80e-ee964a568e26/Thumbnail_Shrybody_lotion400_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1660722037\1f91a452-a4f6-4ab9-a80e-ee964a568e26\Thumbnail_Shrybody_lotion400_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1660722037/221cd202-acd4-4153-bb77-732aaa3db3d2/Thumbnail_Shrybody_lotion400_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1660722037\221cd202-acd4-4153-bb77-732aaa3db3d2\Thumbnail_Shrybody_lotion400_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1660722037/ec7d561a-a778-47ec-b1a8-84e1bb7d5ad6/Thumbnail_Box_Shrybody_lotion400_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1660722037\ec7d561a-a778-47ec-b1a8-84e1bb7d5ad6\Thumbnail_Box_Shrybody_lotion400_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370907/14f5fec0-558a-4ff8-ae9f-f61f58fc3a86/Thumbnail_Shrybody_lotion200_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370907\14f5fec0-558a-4ff8-ae9f-f61f58fc3a86\Thumbnail_Shrybody_lotion200_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370907/49856325-91b0-46f0-b3e0-45d6015ddfab/Thumbnail_Box_Shrybody_lotion200_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370907\49856325-91b0-46f0-b3e0-45d6015ddfab\Thumbnail_Box_Shrybody_lotion200_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370907/764940a0-cdd6-4156-808c-e5a444de2b5f/Thumbnail_Shrybody_lotion200_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370907\764940a0-cdd6-4156-808c-e5a444de2b5f\Thumbnail_Shrybody_lotion200_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370945/4faa511d-c7dd-4deb-bf91-1e60fb87a33a/Thumbnail_Shrybody_lotion200_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370945\4faa511d-c7dd-4deb-bf91-1e60fb87a33a\Thumbnail_Shrybody_lotion200_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370945/6a37d5b7-e948-4c4a-856a-137f485363cc/Thumbnail_Box_Shrybody_lotion200_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370945\6a37d5b7-e948-4c4a-856a-137f485363cc\Thumbnail_Box_Shrybody_lotion200_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370945/7deaa277-bc59-460a-9028-ca3b0d11c1f3/Thumbnail_Shrybody_lotion200_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370945\7deaa277-bc59-460a-9028-ca3b0d11c1f3\Thumbnail_Shrybody_lotion200_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370974/4f952fe5-7c6f-4a4b-b43a-8d268532ad91/Thumbnail_Shrybody_duo_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370974\4f952fe5-7c6f-4a4b-b43a-8d268532ad91\Thumbnail_Shrybody_duo_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370974/7466682a-6ca5-44f0-8b5b-b046616c4445/Thumbnail_Box_Shrybody_duo_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370974\7466682a-6ca5-44f0-8b5b-b046616c4445\Thumbnail_Box_Shrybody_duo_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370974/74eb6ff6-f79f-417a-bc76-2b590e4fd43d/Thumbnail_Shrybody_duo_fog.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370974\74eb6ff6-f79f-417a-bc76-2b590e4fd43d\Thumbnail_Shrybody_duo_fog.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370990/140851c6-a43e-48ac-825c-8e59f877d791/Thumbnail_Shrybody_duo_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370990\140851c6-a43e-48ac-825c-8e59f877d791\Thumbnail_Shrybody_duo_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370990/e4f165d6-7005-4fed-8549-56537597ec4f/Thumbnail_Box_Shrybody_duo_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370990\e4f165d6-7005-4fed-8549-56537597ec4f\Thumbnail_Box_Shrybody_duo_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662370990/fe02d517-666d-42da-8457-8173e0e3d5ce/Thumbnail_Shrybody_duo_nimbus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662370990\fe02d517-666d-42da-8457-8173e0e3d5ce\Thumbnail_Shrybody_duo_nimbus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662462471/87a7e0eb-887c-48fb-82d1-38d1acbba224/Thumbnail_Box_Perfume1_50ml_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662462471\87a7e0eb-887c-48fb-82d1-38d1acbba224\Thumbnail_Box_Perfume1_50ml_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662462471/a8fc4e92-b15b-4826-93cc-21e1df051b7a/Thumbnail_Perfume1_50ml_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662462471\a8fc4e92-b15b-4826-93cc-21e1df051b7a\Thumbnail_Perfume1_50ml_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662462471/b8bc5c10-019d-469d-81df-668ce3709014/Thumbnail_Perfume1_50ml_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662462471\b8bc5c10-019d-469d-81df-668ce3709014\Thumbnail_Perfume1_50ml_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463206/66e552b9-9c62-4211-b4ec-3742c9b04ee3/Thumbnail_Box_Perfume1_50ml_Lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463206\66e552b9-9c62-4211-b4ec-3742c9b04ee3\Thumbnail_Box_Perfume1_50ml_Lale.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463206/884924e8-4cf1-4ae9-9566-aa332bf37b17/Thumbnail_Perfume1_50ml_Lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463206\884924e8-4cf1-4ae9-9566-aa332bf37b17\Thumbnail_Perfume1_50ml_Lale.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463206/f367f066-1be4-435f-a570-9ae9abec9403/Thumbnail_Perfume1_50ml_Lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463206\f367f066-1be4-435f-a570-9ae9abec9403\Thumbnail_Perfume1_50ml_Lale.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463458/04175d65-e6f6-4488-add2-2bf0f0ae032c/Thumbnail_Perfume1_50ml_BergaSandal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463458\04175d65-e6f6-4488-add2-2bf0f0ae032c\Thumbnail_Perfume1_50ml_BergaSandal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463458/282ea762-9330-4457-a2c2-4d2955f4efdc/Thumbnail_Box_Perfume1_50ml_BergaSandal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463458\282ea762-9330-4457-a2c2-4d2955f4efdc\Thumbnail_Box_Perfume1_50ml_BergaSandal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463458/cacbbdb0-b7e7-4ac4-8782-f15c1e53dd88/Thumbnail_Perfume1_50ml_BergaSandal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463458\cacbbdb0-b7e7-4ac4-8782-f15c1e53dd88\Thumbnail_Perfume1_50ml_BergaSandal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463890/30e860d8-c1b1-4383-8534-431ac41a529b/Thumbnail_Perfume1_50ml_Haystacks.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463890\30e860d8-c1b1-4383-8534-431ac41a529b\Thumbnail_Perfume1_50ml_Haystacks.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463890/5e009cdb-96b1-49a4-bea3-1114474cc729/Thumbnail_Perfume1_50ml_Haystacks.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463890\5e009cdb-96b1-49a4-bea3-1114474cc729\Thumbnail_Perfume1_50ml_Haystacks.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662463890/9f2f9f39-fb20-42e8-aaad-f365a64d1e3c/Thumbnail_Box_Perfume1_50ml_Haystacks.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662463890\9f2f9f39-fb20-42e8-aaad-f365a64d1e3c\Thumbnail_Box_Perfume1_50ml_Haystacks.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662464016/0b9df09d-524e-4eaf-9e01-62fab5809e5e/Thumbnail_Perfume1_50ml_Bilingual.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662464016\0b9df09d-524e-4eaf-9e01-62fab5809e5e\Thumbnail_Perfume1_50ml_Bilingual.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662464016/2b977060-4fee-4acf-9845-74b2d5175e3c/Thumbnail_Box_Perfume1_50ml_Bilingual.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662464016\2b977060-4fee-4acf-9845-74b2d5175e3c\Thumbnail_Box_Perfume1_50ml_Bilingual.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662464016/b7be52a4-74ae-400b-936d-db6c536c4c13/Thumbnail_Perfume1_50ml_Bilingual.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662464016\b7be52a4-74ae-400b-936d-db6c536c4c13\Thumbnail_Perfume1_50ml_Bilingual.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662464240/1f329a09-d496-43dd-8654-f47a938e7967/Thumbnail_Perfume1_50ml_WhiteDarjeeling.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662464240\1f329a09-d496-43dd-8654-f47a938e7967\Thumbnail_Perfume1_50ml_WhiteDarjeeling.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662464240/9170d723-7791-46ce-bdf2-301734b82f1d/Thumbnail_Perfume1_50ml_WhiteDarjeeling.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662464240\9170d723-7791-46ce-bdf2-301734b82f1d\Thumbnail_Perfume1_50ml_WhiteDarjeeling.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1662464240/b50c04bf-790c-4eb1-8bad-9a8ce48ceb8a/Thumbnail_Box_Perfume1_50ml_WhiteDarjeeling.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1662464240\b50c04bf-790c-4eb1-8bad-9a8ce48ceb8a\Thumbnail_Box_Perfume1_50ml_WhiteDarjeeling.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666763525/97baa963-eb31-4cca-8744-e98bf35bfb02/Thumbnail_shellX_30ml_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666763525\97baa963-eb31-4cca-8744-e98bf35bfb02\Thumbnail_shellX_30ml_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666763525/c1806399-9e56-4cbe-8be1-722c848dbbd7/Thumbnail_Box_shellX_30ml_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666763525\c1806399-9e56-4cbe-8be1-722c848dbbd7\Thumbnail_Box_shellX_30ml_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666763525/e1cd7977-2702-4e63-ba3c-ca3429a00ab0/Thumbnail_shellX_30ml_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666763525\e1cd7977-2702-4e63-ba3c-ca3429a00ab0\Thumbnail_shellX_30ml_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666765396/21e2b3e8-2760-4506-a6ab-2a3344992b98/Thumbnail_shellX_30ml_berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666765396\21e2b3e8-2760-4506-a6ab-2a3344992b98\Thumbnail_shellX_30ml_berga.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666765396/68a1d0a2-5c73-4991-812f-748dd1673fec/Thumbnail_shellX_30ml_berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666765396\68a1d0a2-5c73-4991-812f-748dd1673fec\Thumbnail_shellX_30ml_berga.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666765396/6eddebe5-bbcc-43fc-9d96-998ebf08b9c4/Thumbnail_Box_shellX_30ml_berga.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666765396\6eddebe5-bbcc-43fc-9d96-998ebf08b9c4\Thumbnail_Box_shellX_30ml_berga.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666769254/85c47678-4e39-4a3a-b808-309f261f0239/Thumbnail_shellX_30ml_lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666769254\85c47678-4e39-4a3a-b808-309f261f0239\Thumbnail_shellX_30ml_lale.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666769254/b03dd8df-b2dc-4ce9-a4aa-24839969158e/Thumbnail_Box_shellX_30ml_lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666769254\b03dd8df-b2dc-4ce9-a4aa-24839969158e\Thumbnail_Box_shellX_30ml_lale.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1666769254/bd3de33b-3b0f-41ea-aca8-9c293b9952fe/Thumbnail_shellX_30ml_lale.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1666769254\bd3de33b-3b0f-41ea-aca8-9c293b9952fe\Thumbnail_shellX_30ml_lale.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1684999166/32e25092-3720-4515-83a4-2d1b8427befb/Thumbnail_Box_PerfumedHand_Wash_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1684999166\32e25092-3720-4515-83a4-2d1b8427befb\Thumbnail_Box_PerfumedHand_Wash_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1684999166/6b8d2aa4-87b2-45b0-ac1e-f9a7485b6228/Thumbnail_PerfumedHand_Wash_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1684999166\6b8d2aa4-87b2-45b0-ac1e-f9a7485b6228\Thumbnail_PerfumedHand_Wash_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1684999166/ef76d1a3-50e1-43eb-84f0-b728a2a0502b/Thumbnail_PerfumedHand_Wash_Chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1684999166\ef76d1a3-50e1-43eb-84f0-b728a2a0502b\Thumbnail_PerfumedHand_Wash_Chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1689055367/7abb4e0a-cba8-4af3-9355-8d774e44a1f4/Thumbnail_PerfumedHand_Wash_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1689055367\7abb4e0a-cba8-4af3-9355-8d774e44a1f4\Thumbnail_PerfumedHand_Wash_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1689055367/d877f0de-95fd-4232-98ef-430f719b155b/Thumbnail_PerfumedHand_Wash_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1689055367\d877f0de-95fd-4232-98ef-430f719b155b\Thumbnail_PerfumedHand_Wash_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1689055367/e4cbd40c-ed11-4288-9ee3-4c641f0e1f42/Thumbnail_Box_PerfumedHand_Wash_000.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1689055367\e4cbd40c-ed11-4288-9ee3-4c641f0e1f42\Thumbnail_Box_PerfumedHand_Wash_000.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1689055380/5351dcbf-464e-4a4e-8383-a16fc4b1c95c/Thumbnail_Box_PerfumedHand_Wash_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1689055380\5351dcbf-464e-4a4e-8383-a16fc4b1c95c\Thumbnail_Box_PerfumedHand_Wash_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1689055380/ac6e4a6c-0a96-428b-85d2-5d0dbc8bc4c8/Thumbnail_PerfumedHand_Wash_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1689055380\ac6e4a6c-0a96-428b-85d2-5d0dbc8bc4c8\Thumbnail_PerfumedHand_Wash_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1689055380/b7669253-f6ec-4875-b5f0-c4aa6e00f322/Thumbnail_PerfumedHand_Wash_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1689055380\b7669253-f6ec-4875-b5f0-c4aa6e00f322\Thumbnail_PerfumedHand_Wash_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695799914/1b169922-1093-4c53-b613-937a6eacbb74/Thumbnail_shellX_30ml_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695799914\1b169922-1093-4c53-b613-937a6eacbb74\Thumbnail_shellX_30ml_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695799914/2f05fb74-14a3-4a30-ade5-ef71fdb9d580/Thumbnail_shellX_30ml_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695799914\2f05fb74-14a3-4a30-ade5-ef71fdb9d580\Thumbnail_shellX_30ml_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695799914/47665e67-a345-433e-b7c9-3ce03c0d8883/Thumbnail_Box_shellX_30ml_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695799914\47665e67-a345-433e-b7c9-3ce03c0d8883\Thumbnail_Box_shellX_30ml_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695800013/0616197d-d2f0-492e-83d1-fc1d9688c559/Thumbnail_shellX_30ml_holymetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695800013\0616197d-d2f0-492e-83d1-fc1d9688c559\Thumbnail_shellX_30ml_holymetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695800013/9cfd2091-f0fc-445b-b45f-fb2350461752/Thumbnail_shellX_30ml_holymetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695800013\9cfd2091-f0fc-445b-b45f-fb2350461752\Thumbnail_shellX_30ml_holymetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695800013/cf25d670-57df-4b91-b24c-28b418f2521b/Thumbnail_Box_shellX_30ml_holymetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695800013\cf25d670-57df-4b91-b24c-28b418f2521b\Thumbnail_Box_shellX_30ml_holymetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695800017/647ba501-4af5-472b-8076-528b877728b4/Thumbnail_shellX_30ml_bold.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695800017\647ba501-4af5-472b-8076-528b877728b4\Thumbnail_shellX_30ml_bold.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695800017/89c2e852-06e3-43a7-8a7f-9d75d76bea3e/Thumbnail_shellX_30ml_bold.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695800017\89c2e852-06e3-43a7-8a7f-9d75d76bea3e\Thumbnail_shellX_30ml_bold.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695800017/cabe52d5-77ee-4179-ae46-b999df505310/Thumbnail_Box_shellX_30ml_bold.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695800017\cabe52d5-77ee-4179-ae46-b999df505310\Thumbnail_Box_shellX_30ml_bold.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801508/7836fd70-de19-45c9-a65d-2f3aaee62b6b/Thumbnail_Perfume2_50ml_Pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801508\7836fd70-de19-45c9-a65d-2f3aaee62b6b\Thumbnail_Perfume2_50ml_Pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801508/e5f6058f-6fab-4336-8bec-7ea34bc0bae4/Thumbnail_Box_Perfume2_50ml_Pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801508\e5f6058f-6fab-4336-8bec-7ea34bc0bae4\Thumbnail_Box_Perfume2_50ml_Pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801508/f3280396-6c15-4c35-bd5e-d765ab571538/Thumbnail_Perfume2_50ml_Pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801508\f3280396-6c15-4c35-bd5e-d765ab571538\Thumbnail_Perfume2_50ml_Pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801538/20a1c7e3-1d4d-4903-9e10-4455a18bd5b5/Thumbnail_Box_Perfume2_50ml_WoodSaltBeach.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801538\20a1c7e3-1d4d-4903-9e10-4455a18bd5b5\Thumbnail_Box_Perfume2_50ml_WoodSaltBeach.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801538/61f11495-ddfe-43be-8e69-72774244ba86/Thumbnail_Perfume2_50ml_WoodSaltBeach.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801538\61f11495-ddfe-43be-8e69-72774244ba86\Thumbnail_Perfume2_50ml_WoodSaltBeach.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801538/b572f198-bfad-4948-9398-fb45ac1bc44b/Thumbnail_Perfume2_50ml_WoodSaltBeach.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801538\b572f198-bfad-4948-9398-fb45ac1bc44b\Thumbnail_Perfume2_50ml_WoodSaltBeach.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801544/06a5497f-f242-4f59-8ecf-acd7c368f852/Thumbnail_Box_Perfume2_50ml_BoldCitrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801544\06a5497f-f242-4f59-8ecf-acd7c368f852\Thumbnail_Box_Perfume2_50ml_BoldCitrus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801544/97f95edb-4661-40a0-8693-e1a65e6b18d5/Thumbnail_Perfume2_50ml_BoldCitrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801544\97f95edb-4661-40a0-8693-e1a65e6b18d5\Thumbnail_Perfume2_50ml_BoldCitrus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801544/de53ddac-2f5c-4f96-9a40-60801a49769a/Thumbnail_Perfume2_50ml_BoldCitrus.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801544\de53ddac-2f5c-4f96-9a40-60801a49769a\Thumbnail_Perfume2_50ml_BoldCitrus.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801549/42fd7659-e96b-4657-8123-285e73e0932e/Thumbnail_Perfume2_50ml_SaltyVanilla.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801549\42fd7659-e96b-4657-8123-285e73e0932e\Thumbnail_Perfume2_50ml_SaltyVanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801549/54efa82d-5605-4292-94b6-bf183fdd5025/Thumbnail_Perfume2_50ml_SaltyVanilla.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801549\54efa82d-5605-4292-94b6-bf183fdd5025\Thumbnail_Perfume2_50ml_SaltyVanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801549/7b3ed195-751c-4a23-9e8d-7fea0d8dacd0/Thumbnail_Box_Perfume2_50ml_SaltyVanilla.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801549\7b3ed195-751c-4a23-9e8d-7fea0d8dacd0\Thumbnail_Box_Perfume2_50ml_SaltyVanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801553/2eff6aa2-ba03-4127-bfb4-30beae134dc6/Thumbnail_Box_Perfume2_50ml_BatherInTheLake.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801553\2eff6aa2-ba03-4127-bfb4-30beae134dc6\Thumbnail_Box_Perfume2_50ml_BatherInTheLake.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801553/9797d46f-4e9a-4c4b-bc57-47d5346bd40e/Thumbnail_Perfume2_50ml_BatherInTheLake.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801553\9797d46f-4e9a-4c4b-bc57-47d5346bd40e\Thumbnail_Perfume2_50ml_BatherInTheLake.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801553/dd2d2be0-156e-4c91-b480-6432f8ddae3f/Thumbnail_Perfume2_50ml_BatherInTheLake.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801553\dd2d2be0-156e-4c91-b480-6432f8ddae3f\Thumbnail_Perfume2_50ml_BatherInTheLake.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801557/566df904-58ed-453d-b727-abf52e7923b0/Thumbnail_Box_Perfume2_50ml_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801557\566df904-58ed-453d-b727-abf52e7923b0\Thumbnail_Box_Perfume2_50ml_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801557/cc8c778c-5bbc-42cd-bd6e-b3e6bce12aa2/Thumbnail_Perfume2_50ml_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801557\cc8c778c-5bbc-42cd-bd6e-b3e6bce12aa2\Thumbnail_Perfume2_50ml_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801557/fb3f9859-b8d8-419f-893f-8091d795443c/Thumbnail_Perfume2_50ml_LateAutumn.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801557\fb3f9859-b8d8-419f-893f-8091d795443c\Thumbnail_Perfume2_50ml_LateAutumn.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801560/043548eb-43f6-4b51-af7a-7f755e279dec/Thumbnail_Perfume2_50ml_Brown.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801560\043548eb-43f6-4b51-af7a-7f755e279dec\Thumbnail_Perfume2_50ml_Brown.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801560/7f08d3cd-9c69-4167-9514-5da4eac3a4a8/Thumbnail_Box_Perfume2_50ml_Brown.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801560\7f08d3cd-9c69-4167-9514-5da4eac3a4a8\Thumbnail_Box_Perfume2_50ml_Brown.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801560/9205fb89-61ae-45ce-a119-8fb0f9d172fc/Thumbnail_Perfume2_50ml_Brown.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801560\9205fb89-61ae-45ce-a119-8fb0f9d172fc\Thumbnail_Perfume2_50ml_Brown.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801573/a20ac989-a7e8-4ad1-9129-d054595504be/Thumbnail_Perfume2_50ml_HolyMetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801573\a20ac989-a7e8-4ad1-9129-d054595504be\Thumbnail_Perfume2_50ml_HolyMetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801573/b52d6748-3ada-4f6d-9c25-e9fe706a1e90/Thumbnail_Perfume2_50ml_HolyMetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801573\b52d6748-3ada-4f6d-9c25-e9fe706a1e90\Thumbnail_Perfume2_50ml_HolyMetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801573/c1ab0ce7-a01f-41e8-859a-b67e7e415e9c/Thumbnail_Box_Perfume2_50ml_HolyMetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801573\c1ab0ce7-a01f-41e8-859a-b67e7e415e9c\Thumbnail_Box_Perfume2_50ml_HolyMetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801896/27e67276-9dc0-4874-ae76-66ed00d6ade7/Thumbnail_Box__EggLipbalm_egg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801896\27e67276-9dc0-4874-ae76-66ed00d6ade7\Thumbnail_Box__EggLipbalm_egg.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695801896/a6038207-7967-46f8-a6dd-2705c4e63cb7/Thumbnail_EggLipbalm_egg.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695801896\a6038207-7967-46f8-a6dd-2705c4e63cb7\Thumbnail_EggLipbalm_egg.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802162/3f34ba03-388c-4aaa-a9e2-f6d3d8925bd8/Thumbnail_EggLipbalm_pink.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802162\3f34ba03-388c-4aaa-a9e2-f6d3d8925bd8\Thumbnail_EggLipbalm_pink.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802162/40866167-28be-42c6-b892-79c1d6ee85f3/Thumbnail_Box_EggLipbalm_pink.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802162\40866167-28be-42c6-b892-79c1d6ee85f3\Thumbnail_Box_EggLipbalm_pink.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802166/5faf8bb9-5695-4129-9e25-7f7ff56c97c4/Thumbnail_EggLipbalm_black.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802166\5faf8bb9-5695-4129-9e25-7f7ff56c97c4\Thumbnail_EggLipbalm_black.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802166/d276d0db-6a79-4528-a048-89b1e04734f5/Thumbnail_Box_EggLipbalm_black.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802166\d276d0db-6a79-4528-a048-89b1e04734f5\Thumbnail_Box_EggLipbalm_black.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802170/178e66ac-f284-4450-b31f-b21c0c7f2f3f/Thumbnail_EggLipbalm_silver.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802170\178e66ac-f284-4450-b31f-b21c0c7f2f3f\Thumbnail_EggLipbalm_silver.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802170/2bb93b61-5437-4962-8a3a-02665df73ba8/Thumbnail_Box_EggLipbalm_silver.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802170\2bb93b61-5437-4962-8a3a-02665df73ba8\Thumbnail_Box_EggLipbalm_silver.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802344/089c468a-3ace-4ec0-9df1-3554f850322e/Thumbnail_EggPerfume_woodsalt.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802344\089c468a-3ace-4ec0-9df1-3554f850322e\Thumbnail_EggPerfume_woodsalt.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802344/c236fc95-947f-426c-91cc-b85cb92bdc83/Thumbnail_Box_EggPerfume_WoodSaltBeach.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802344\c236fc95-947f-426c-91cc-b85cb92bdc83\Thumbnail_Box_EggPerfume_WoodSaltBeach.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802344/d5a41e06-14bb-49d7-ad9c-bdb5df889bfc/Thumbnail_EggPerfume_woodsalt.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802344\d5a41e06-14bb-49d7-ad9c-bdb5df889bfc\Thumbnail_EggPerfume_woodsalt.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802404/0fe8b6cc-0670-4261-a9c1-8fa8e627f2d4/Thumbnail_EggPerfume_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802404\0fe8b6cc-0670-4261-a9c1-8fa8e627f2d4\Thumbnail_EggPerfume_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802404/4e308402-807b-472c-b11c-dfe945733b00/Thumbnail_EggPerfume_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802404\4e308402-807b-472c-b11c-dfe945733b00\Thumbnail_EggPerfume_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802404/fb9fb41c-4bc2-4c0d-b685-9d7ec61064bb/Thumbnail_Box_EggPerfume_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802404\fb9fb41c-4bc2-4c0d-b685-9d7ec61064bb\Thumbnail_Box_EggPerfume_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802408/173760b8-fbb3-41ae-b751-d063fa3af4f1/Thumbnail_EggPerfume_holymetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802408\173760b8-fbb3-41ae-b751-d063fa3af4f1\Thumbnail_EggPerfume_holymetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802408/403782b4-bba2-4358-9f0d-f63b588ce483/Thumbnail_Box_EggPerfume_HolyMetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802408\403782b4-bba2-4358-9f0d-f63b588ce483\Thumbnail_Box_EggPerfume_HolyMetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1695802408/47867428-a14e-410d-8075-b7bc622c80a2/Thumbnail_EggPerfume_holymetal.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1695802408\47867428-a14e-410d-8075-b7bc622c80a2\Thumbnail_EggPerfume_holymetal.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697681569/4adf104c-95d7-40a9-993e-9f51d34b9e8b/Thumbnail_Box_shell_30ml_vein.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697681569\4adf104c-95d7-40a9-993e-9f51d34b9e8b\Thumbnail_Box_shell_30ml_vein.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697681569/7cb71f24-66cf-4819-aa07-620e5218e8a2/Thumbnail_shell_30ml_VEIN.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697681569\7cb71f24-66cf-4819-aa07-620e5218e8a2\Thumbnail_shell_30ml_VEIN.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697681569/f2bcd82a-6fc7-4bf1-bf0d-b72b93a4b56c/Thumbnail_shell_30ml_VEIN.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697681569\f2bcd82a-6fc7-4bf1-bf0d-b72b93a4b56c\Thumbnail_shell_30ml_VEIN.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693723/4a45ec9f-3e91-4aec-8b44-a4a10e22e242/Thumbnail_PerfumeCandle_200g_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693723\4a45ec9f-3e91-4aec-8b44-a4a10e22e242\Thumbnail_PerfumeCandle_200g_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693723/bfdddf47-d025-4d6d-98a4-974383046eb5/Thumbnail_PerfumeCandle_200g_pumkini.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693723\bfdddf47-d025-4d6d-98a4-974383046eb5\Thumbnail_PerfumeCandle_200g_pumkini.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693826/422da6c0-0495-49f6-804c-7fea907aaec8/Thumbnail_PerfumeCandle_200g_holy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693826\422da6c0-0495-49f6-804c-7fea907aaec8\Thumbnail_PerfumeCandle_200g_holy.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693826/a09d3ca7-9d5a-4c1c-ad49-95ff1f95794e/Thumbnail_PerfumeCandle_200g_holy.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693826\a09d3ca7-9d5a-4c1c-ad49-95ff1f95794e\Thumbnail_PerfumeCandle_200g_holy.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693830/2142b64d-9bd8-4214-aa07-a0ba21edf308/Thumbnail_PerfumeCandle_200g_late.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693830\2142b64d-9bd8-4214-aa07-a0ba21edf308\Thumbnail_PerfumeCandle_200g_late.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693834/0687abfe-c23d-49a5-a27d-00fd4d8d732e/Thumbnail_PerfumeCandle_200g_bather.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693834\0687abfe-c23d-49a5-a27d-00fd4d8d732e\Thumbnail_PerfumeCandle_200g_bather.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693834/fc7b2484-6fd0-49ee-8d0c-1d507ae63991/Thumbnail_PerfumeCandle_200g_bather.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693834\fc7b2484-6fd0-49ee-8d0c-1d507ae63991\Thumbnail_PerfumeCandle_200g_bather.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693842/077a4c56-9420-4ece-a068-73317b64e24d/Thumbnail_PerfumeCandle_60g_set.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693842\077a4c56-9420-4ece-a068-73317b64e24d\Thumbnail_PerfumeCandle_60g_set.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1697693842/09186edd-5a07-46c8-898c-d69902d3b2b1/Thumbnail_PerfumeCandle_60g_set.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1697693842\09186edd-5a07-46c8-898c-d69902d3b2b1\Thumbnail_PerfumeCandle_60g_set.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1698198627/3c0efb03-26cb-4cef-b710-9c8b001ffbf9/Thumbnail_shell_15ml_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1698198627\3c0efb03-26cb-4cef-b710-9c8b001ffbf9\Thumbnail_shell_15ml_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1698198627/675c7f88-1b3d-4f53-a22e-6b08f3249fdd/Thumbnail_shell_15ml_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1698198627\675c7f88-1b3d-4f53-a22e-6b08f3249fdd\Thumbnail_shell_15ml_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1698198627/70793c5c-db7e-4bb2-bb38-eb783f143c0e/Thumbnail_Box_shell_15ml_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1698198627\70793c5c-db7e-4bb2-bb38-eb783f143c0e\Thumbnail_Box_shell_15ml_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1701940039/1d56365d-ff11-4592-886c-fa51b0b731af/Thumbnail_shell_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940039\1d56365d-ff11-4592-886c-fa51b0b731af\Thumbnail_shell_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1701940039/79d59f84-57ae-4ec1-9259-e58a46b5d9c9/Thumbnail_shell_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940039\79d59f84-57ae-4ec1-9259-e58a46b5d9c9\Thumbnail_shell_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1701940039/b291b4e6-4476-475a-bc3f-f9963b83b060/Thumbnail_Box_shell_duo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1701940039\b291b4e6-4476-475a-bc3f-f9963b83b060\Thumbnail_Box_shell_duo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1722263485/0b1c7bb4-1417-431c-b93b-22348f5877fb/CarDiffuser_Lilycoco.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1722263485\0b1c7bb4-1417-431c-b93b-22348f5877fb\CarDiffuser_Lilycoco.png
+Content Type: image/png
+
+Uri: https://web-resource.tamburins.com/catalog/product/1733387658/4de007b8-cfe7-4f20-b156-4bfad06535f9/CarDiffuser_Chamo.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1733387658\4de007b8-cfe7-4f20-b156-4bfad06535f9\CarDiffuser_Chamo.png
+Content Type: image/png
+
+Uri: https://web-resource.tamburins.com/catalog/product/1744451785/beb35ba0-6542-459a-9180-6c4bc2ce15bf/CarDiffuser_BlueForest.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1744451785\beb35ba0-6542-459a-9180-6c4bc2ce15bf\CarDiffuser_BlueForest.png
+Content Type: image/png
+
+Uri: https://web-resource.tamburins.com/catalog/product/1745699988/df5aab92-be2d-4703-a959-c4a436ba8f28/CarDiffuser_Bigarico_Box.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1745699988\df5aab92-be2d-4703-a959-c4a436ba8f28\CarDiffuser_Bigarico_Box.png
+Content Type: image/png
+
+Uri: https://web-resource.tamburins.com/catalog/product/1745699988/eb0502b9-44e1-4ad1-9259-c4100484f6d2/CarDiffuser_Bigarico.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1745699988\eb0502b9-44e1-4ad1-9259-c4100484f6d2\CarDiffuser_Bigarico.png
+Content Type: image/png
+
+Uri: https://web-resource.tamburins.com/catalog/product/1755548542/3491c659-f1dc-4c62-963a-06de7bb2cb83/Thumbnail_cardiffuser_refill_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1755548542\3491c659-f1dc-4c62-963a-06de7bb2cb83\Thumbnail_cardiffuser_refill_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1755548542/ba3e861a-5c9c-4590-b86a-100778caeaa9/Thumbnail_cardiffuser_refill_chamo.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1755548542\ba3e861a-5c9c-4590-b86a-100778caeaa9\Thumbnail_cardiffuser_refill_chamo.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1765659863/1fa3edd3-438f-413a-8141-89887ac9059d/Thumbnail_cardiffuser_refill_blueforest.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1765659863\1fa3edd3-438f-413a-8141-89887ac9059d\Thumbnail_cardiffuser_refill_blueforest.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1765659863/9714222f-fafe-4ca2-8260-b64e8159d373/Thumbnail_cardiffuser_refill_blueforest.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1765659863\9714222f-fafe-4ca2-8260-b64e8159d373\Thumbnail_cardiffuser_refill_blueforest.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1766698546/b2eb5fb5-1355-44b2-93b8-709ccbba5c65/Thumbnail_cardiffuser_refill_bigalico.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1766698546\b2eb5fb5-1355-44b2-93b8-709ccbba5c65\Thumbnail_cardiffuser_refill_bigalico.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1788878968/849fc15a-25a8-4718-83da-08c8225facd4/Thumbnail_cardiffuser_refill_lilycoco.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1788878968\849fc15a-25a8-4718-83da-08c8225facd4\Thumbnail_cardiffuser_refill_lilycoco.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/catalog/product/1788878968/c5575ee6-36ed-4657-8144-81d895e08152/Thumbnail_cardiffuser_refill_lilycoco.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\catalog\product\1788878968\c5575ee6-36ed-4657-8144-81d895e08152\Thumbnail_cardiffuser_refill_lilycoco.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/012e1d9e-57c3-47b8-bf81-120d4db1e027/pc_hausdosan_tf01.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\012e1d9e-57c3-47b8-bf81-120d4db1e027\pc_hausdosan_tf01.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/0f404306-7aba-4de1-a8a4-946eb75abe5b/Exhibition5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\0f404306-7aba-4de1-a8a4-946eb75abe5b\Exhibition5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/10c55792-0c44-4023-bd6f-181571333639/pc_hausdosan_tf02.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\10c55792-0c44-4023-bd6f-181571333639\pc_hausdosan_tf02.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/1719e27a-2761-47c5-9280-e98e5ac3f2ca/exhibition_showery_f_1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\1719e27a-2761-47c5-9280-e98e5ac3f2ca\exhibition_showery_f_1.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/19649f28-634d-4fdd-a24b-6bedea0119b6/seongsu_perfumesoap05.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\19649f28-634d-4fdd-a24b-6bedea0119b6\seongsu_perfumesoap05.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/1a1e65f2-0474-4a70-8563-357d6f17ac31/Exhibition2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\1a1e65f2-0474-4a70-8563-357d6f17ac31\Exhibition2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/1f359cdc-6b14-4fc5-bccd-85d5a1fe13cd/exhibition_perfume_3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\1f359cdc-6b14-4fc5-bccd-85d5a1fe13cd\exhibition_perfume_3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/2799c720-cfcb-4393-a27f-1f94724ce4ab/exhibition_perfume_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\2799c720-cfcb-4393-a27f-1f94724ce4ab\exhibition_perfume_2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/2cec4d3f-382a-4d73-93b5-4a729184c66f/seongsu_perfumesoap08.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\2cec4d3f-382a-4d73-93b5-4a729184c66f\seongsu_perfumesoap08.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/2eaa068c-9f3f-489a-b4ab-5f44262feea9/seongsu_perfumesoap09.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\2eaa068c-9f3f-489a-b4ab-5f44262feea9\seongsu_perfumesoap09.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/37ca097b-7411-43e5-b0dd-6955a912655c/seongsu_perfumesoap01.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\37ca097b-7411-43e5-b0dd-6955a912655c\seongsu_perfumesoap01.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/523b155e-b796-4728-be7a-ccaa61c3ed5e/exhibition_showery_f_3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\523b155e-b796-4728-be7a-ccaa61c3ed5e\exhibition_showery_f_3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/5d825e0e-795e-441f-8bdd-2e767dcbfc4c/seongsu_perfumesoap07.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\5d825e0e-795e-441f-8bdd-2e767dcbfc4c\seongsu_perfumesoap07.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/6accd5d8-f69a-42e7-9392-bd05d20c350d/exhibition_showery_f_8.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\6accd5d8-f69a-42e7-9392-bd05d20c350d\exhibition_showery_f_8.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/73f7c6e6-7b53-436b-835b-69f944dee22a/exhibition_perfume_5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\73f7c6e6-7b53-436b-835b-69f944dee22a\exhibition_perfume_5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/772451bd-e0d9-4347-a9c7-0abf00d977cf/exhibition_showery_f_6.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\772451bd-e0d9-4347-a9c7-0abf00d977cf\exhibition_showery_f_6.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/885352f5-e5af-41e9-b540-f8ef8b1b924d/Exhibition3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\885352f5-e5af-41e9-b540-f8ef8b1b924d\Exhibition3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/8b7f3012-0509-4742-9c6f-a116b7b257ff/Exhibition4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\8b7f3012-0509-4742-9c6f-a116b7b257ff\Exhibition4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/8d69627c-754a-4943-9646-8ecaf3a15645/Exhibition2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\8d69627c-754a-4943-9646-8ecaf3a15645\Exhibition2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/a3249528-0e63-4de5-a971-5c395927ec44/exhibition_showery_f_5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\a3249528-0e63-4de5-a971-5c395927ec44\exhibition_showery_f_5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/ac5c1b6d-a6e1-4b35-862c-21f23506e333/seongsu_perfumesoap06.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\ac5c1b6d-a6e1-4b35-862c-21f23506e333\seongsu_perfumesoap06.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/aef9e87a-c42f-45fd-b141-b41f76035bc2/seongsu_perfumesoap10.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\aef9e87a-c42f-45fd-b141-b41f76035bc2\seongsu_perfumesoap10.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/afbff823-4510-4a57-89bc-0c1bbb144c6c/exhibition_showery_f_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\afbff823-4510-4a57-89bc-0c1bbb144c6c\exhibition_showery_f_2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/b9199a5f-1548-4252-a409-ff245c3edb5f/seongsu_perfumesoap02.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\b9199a5f-1548-4252-a409-ff245c3edb5f\seongsu_perfumesoap02.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/c32f95d7-29ff-4311-9c79-ffa3f8639019/seongsu_perfumesoap03.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\c32f95d7-29ff-4311-9c79-ffa3f8639019\seongsu_perfumesoap03.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/c638b5ea-1fcc-4ce9-bd02-c4faf9450150/seongsu_perfumesoap04.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\c638b5ea-1fcc-4ce9-bd02-c4faf9450150\seongsu_perfumesoap04.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/d69a2f74-a8ab-4b93-bf5b-a4859eeab3e0/exhibition_perfume_4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\d69a2f74-a8ab-4b93-bf5b-a4859eeab3e0\exhibition_perfume_4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/e415ecaf-0676-43a9-afe7-de0b46443731/exhibition_showery_f_4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\e415ecaf-0676-43a9-afe7-de0b46443731\exhibition_showery_f_4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/eeb60495-7175-41fd-8f66-e995d07c9b4a/Exhibition1.mp4
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\eeb60495-7175-41fd-8f66-e995d07c9b4a\Exhibition1.mp4
+Content Type: video/mp4
+
+Uri: https://web-resource.tamburins.com/store/exhibition/eee5d23d-a75a-4a20-89a1-ffdbaa507536/exhibition_showery_f_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\eee5d23d-a75a-4a20-89a1-ffdbaa507536\exhibition_showery_f_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/f3091928-3f81-4ac6-a536-462d0e816631/exhibition_perfume_1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\f3091928-3f81-4ac6-a536-462d0e816631\exhibition_perfume_1.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/exhibition/fa9344ea-afdd-4cac-bd42-849eb03dffa1/pc_hausdosan_tf03.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\exhibition\fa9344ea-afdd-4cac-bd42-849eb03dffa1\pc_hausdosan_tf03.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/01d8e2fc-47a0-445d-a4d8-451558f65f7f/samchung_fs_02.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\01d8e2fc-47a0-445d-a4d8-451558f65f7f\samchung_fs_02.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/063a5079-c471-44d6-91b2-3a5e9cd6b2c0/store_hausnowhere2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\063a5079-c471-44d6-91b2-3a5e9cd6b2c0\store_hausnowhere2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/09d5fc54-870c-4058-b4be-9c1320e8fcf1/Sinsa5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\09d5fc54-870c-4058-b4be-9c1320e8fcf1\Sinsa5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/0b4b8354-3f5b-41b7-a8d5-5964095b7749/samchung_fs_01.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\0b4b8354-3f5b-41b7-a8d5-5964095b7749\samchung_fs_01.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/0f2357f3-fa2f-4e7e-96d1-dac1887eca63/pc_seongsu_1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\0f2357f3-fa2f-4e7e-96d1-dac1887eca63\pc_seongsu_1.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/124f4503-658d-4b12-abbc-eb8a32dcb269/store_hausnowhere6.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\124f4503-658d-4b12-abbc-eb8a32dcb269\store_hausnowhere6.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/174a3bcb-01c8-45d8-b672-1a6375ef8ac9/pc_seongsu_3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\174a3bcb-01c8-45d8-b672-1a6375ef8ac9\pc_seongsu_3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/18f25a42-f9bf-4561-bf6f-33fea3ec2172/Sinsa6.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\18f25a42-f9bf-4561-bf6f-33fea3ec2172\Sinsa6.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/2e000997-54fd-41ad-9d06-ff1c4b7f8488/store_hausnowhere1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\2e000997-54fd-41ad-9d06-ff1c4b7f8488\store_hausnowhere1.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/2e5d231d-bb86-4766-8803-d645c0764b09/pc_seongsu_4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\2e5d231d-bb86-4766-8803-d645c0764b09\pc_seongsu_4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/3212e846-fc8e-4dd2-887b-49c0a1004d63/pc_seongsu_6.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\3212e846-fc8e-4dd2-887b-49c0a1004d63\pc_seongsu_6.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/334c337c-c6c9-4d4f-9bcb-f647b4e40a47/Sinsa1.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\334c337c-c6c9-4d4f-9bcb-f647b4e40a47\Sinsa1.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/3608a483-18f0-4330-a4fe-f85901dd26de/store_hausnowhere7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\3608a483-18f0-4330-a4fe-f85901dd26de\store_hausnowhere7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/3c4d517e-c88f-4199-bcf8-c2f80fb508b1/Sinsa2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\3c4d517e-c88f-4199-bcf8-c2f80fb508b1\Sinsa2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/476315e4-b4b8-40bb-96ec-c3756c14a11e/Dosan4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\476315e4-b4b8-40bb-96ec-c3756c14a11e\Dosan4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/5e60051e-6158-441f-8b0d-7de1509de37e/Sinsa4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\5e60051e-6158-441f-8b0d-7de1509de37e\Sinsa4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/61bc6cbd-7643-4186-b638-5331d6fe7134/samchung_fs_03.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\61bc6cbd-7643-4186-b638-5331d6fe7134\samchung_fs_03.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/64c554d9-0a9d-4678-8bd7-a05fc41a9c78/pc_seongsu_7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\64c554d9-0a9d-4678-8bd7-a05fc41a9c78\pc_seongsu_7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/67f3aac0-1f04-4a4f-9b3a-b75959cb92c0/Sinsa3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\67f3aac0-1f04-4a4f-9b3a-b75959cb92c0\Sinsa3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/71cd28c3-163d-4f7f-8a17-108a0da6f8ed/store_hausnowhere5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\71cd28c3-163d-4f7f-8a17-108a0da6f8ed\store_hausnowhere5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/7bbadc12-02b6-40e7-8b86-816d73a61737/스크린샷 2024-03-08 오후 7.03.24.png
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\7bbadc12-02b6-40e7-8b86-816d73a61737\스크린샷 2024-03-08 오후 7.03.24.png
+Content Type: image/png
+
+Uri: https://web-resource.tamburins.com/store/store/8fc0c3bc-3cbe-41b5-a2fa-9e5df85e2542/Dosan5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\8fc0c3bc-3cbe-41b5-a2fa-9e5df85e2542\Dosan5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/8ff62a48-5c5a-4014-8ed2-955dfedbc09b/store_hausnowhere4.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\8ff62a48-5c5a-4014-8ed2-955dfedbc09b\store_hausnowhere4.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/903f0806-2994-4021-bba8-3f7ac53141bf/pc_seongsu_2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\903f0806-2994-4021-bba8-3f7ac53141bf\pc_seongsu_2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/93e90c87-5782-475b-b2e7-b046b8031d6b/Dosan3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\93e90c87-5782-475b-b2e7-b046b8031d6b\Dosan3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/9d57f78f-ccdc-429d-8fbe-f45d3f66c1a2/Dosan1.mp4
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\9d57f78f-ccdc-429d-8fbe-f45d3f66c1a2\Dosan1.mp4
+Content Type: video/mp4
+
+Uri: https://web-resource.tamburins.com/store/store/a1867202-2a9a-4af5-960f-c2af9afcfb24/Sinsa7.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\a1867202-2a9a-4af5-960f-c2af9afcfb24\Sinsa7.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/a6eb80e3-38a4-4ee8-ba7d-8ef661f77dca/Dosan2.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\a6eb80e3-38a4-4ee8-ba7d-8ef661f77dca\Dosan2.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/a94acd03-a42b-46f5-8369-be216cf00e67/pc_seongsu_5.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\a94acd03-a42b-46f5-8369-be216cf00e67\pc_seongsu_5.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/ace8e3dd-1ac6-463c-80ef-86206c7d179c/store_hausnowhere9.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\ace8e3dd-1ac6-463c-80ef-86206c7d179c\store_hausnowhere9.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/ctgr_exhibition.jpg/9c0b08f9-9f32-4620-9329-cd734ed5262b/ctgr_exhibition.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\ctgr_exhibition.jpg\9c0b08f9-9f32-4620-9329-cd734ed5262b\ctgr_exhibition.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/ctgr_korea.jpg/358d227c-6adc-4d94-9489-929a7e1a835e/ctgr_korea.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\ctgr_korea.jpg\358d227c-6adc-4d94-9489-929a7e1a835e\ctgr_korea.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/ctgr_shanghi.jpg/6418ae71-7e14-4b02-bacb-f40c451dcf4b/ctgr_shanghi.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\ctgr_shanghi.jpg\6418ae71-7e14-4b02-bacb-f40c451dcf4b\ctgr_shanghi.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/dc70100e-4737-4a78-9a14-0c4f0dea45b4/store_hausnowhere3.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\dc70100e-4737-4a78-9a14-0c4f0dea45b4\store_hausnowhere3.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/e6844b4f-7b00-4e0c-afbc-2ef601c1b3bc/store_hausnowhere8.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\e6844b4f-7b00-4e0c-afbc-2ef601c1b3bc\store_hausnowhere8.jpg
+Content Type: image/jpeg
+
+Uri: https://web-resource.tamburins.com/store/store/ebb40fcd-e5f5-44b2-9d5d-b60887e9b9f8/samchung_fs_04.jpg
+File Name: D:\CacWebsiteClone\www.tamburins.com\store\store\ebb40fcd-e5f5-44b2-9d5d-b60887e9b9f8\samchung_fs_04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6R4Q0MP9S3
+File Name: D:\CacWebsiteClone\www.tamburins.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-L72CYQJXEQ
+File Name: D:\CacWebsiteClone\www.tamburins.com\gtag\js-2
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-136101502-1
+File Name: D:\CacWebsiteClone\www.tamburins.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/en/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001154/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001154\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001155/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001155\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001156/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001156\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001163/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001163\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001164/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001164\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001165/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001165\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001166/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001166\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001167/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001167\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001168/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001168\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001181/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001181\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001182/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001182\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001183/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001183\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001184/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001184\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001368/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001368\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001384/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001384\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001385/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001385\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001388/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001388\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001389/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001389\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001430/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001430\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001445/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001445\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001446/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001446\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001450/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001450\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001456/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001456\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001457/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001457\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12001458/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12001458\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12500370/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12500370\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/12500436/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\12500436\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1504792781/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1504792781\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1544597707/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1544597707\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1568791598/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1568791598\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1568791887/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1568791887\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1608604816/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1608604816\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1608604820/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1608604820\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1608604822/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1608604822\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1612860429/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1612860429\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1614063075/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1614063075\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1614063580/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1614063580\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1630632738/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1630632738\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1630632842/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1630632842\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1649738877/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1649738877\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1652762893/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1652762893\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1652764365/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1652764365\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1652764708/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1652764708\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1652764906/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1652764906\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1652765105/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1652765105\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1652765573/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1652765573\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1653877321/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1653877321\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1653877388/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1653877388\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1653877408/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1653877408\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1653877450/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1653877450\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1660720704/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1660720704\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1660722037/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1660722037\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662370907/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662370907\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662370945/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662370945\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662370974/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662370974\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662370990/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662370990\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662462471/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662462471\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662463206/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662463206\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662463458/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662463458\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662463890/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662463890\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662464016/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662464016\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1662464240/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1662464240\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1666763525/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1666763525\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1666765396/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1666765396\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1666769254/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1666769254\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1684999166/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1684999166\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1689055367/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1689055367\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1689055380/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1689055380\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695799914/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695799914\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695800013/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695800013\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695800017/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695800017\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801508/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801508\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801538/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801538\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801544/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801544\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801549/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801549\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801553/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801553\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801557/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801557\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801560/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801560\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801573/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801573\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695801896/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695801896\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695802162/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695802162\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695802166/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695802166\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695802170/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695802170\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695802344/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695802344\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695802404/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695802404\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1695802408/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1695802408\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697616952/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697616952\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697617035/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697617035\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697617103/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697617103\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697617235/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697617235\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697617261/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697617261\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697617270/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697617270\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697681569/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697681569\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697693723/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697693723\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697693826/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697693826\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697693830/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697693830\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697693834/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697693834\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1697693842/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1697693842\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1698198627/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1698198627\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1701940039/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1701940039\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1701940111/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1701940111\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1701940112/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1701940112\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1701940122/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1701940122\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1722263485/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1722263485\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1733387658/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1733387658\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1744451785/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1744451785\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1745699988/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1745699988\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1755548542/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1755548542\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1765659863/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1765659863\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1766698546/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1766698546\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/item/1788878968/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\item\1788878968\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/mypage/cs/contact-us/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\mypage\cs\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/body/perfumed-hand/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\body\perfumed-hand\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/body/showery-body/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\body\showery-body\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/evening-glow/evening-glows/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\evening-glow\evening-glows\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/hand-lip/chain-hand/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\hand-lip\chain-hand\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/hand-lip/egg-lipbalm/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\hand-lip\egg-lipbalm\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/hand-lip/shell-perfume-hand/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\hand-lip\shell-perfume-hand\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/home-fragrance/car-diffuser/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\home-fragrance\car-diffuser\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/home-fragrance/perfume-candle/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\home-fragrance\perfume-candle\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/home-fragrance/room-fragrance/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\home-fragrance\room-fragrance\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/perfume/perfume-balm/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\perfume\perfume-balm\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/shop/perfume/perfumes/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\shop\perfume\perfumes\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/store/china/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\store\china\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/store/exhibition/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\store\exhibition\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/store/japan/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\store\japan\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/en/store/korea/
+File Name: D:\CacWebsiteClone\www.tamburins.com\en\store\korea\index.htm
+Content Type: text/html
+
+Uri: https://www.tamburins.com/icons/ico_arrow.svg
+File Name: D:\CacWebsiteClone\www.tamburins.com\icons\ico_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.tamburins.com/_next/static/chunks/1632-953a8b92224382ed.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\1632-953a8b92224382ed.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/2117-96559ae00a506b64.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\2117-96559ae00a506b64.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/2378-1d8a92e09a79a5d7.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\2378-1d8a92e09a79a5d7.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/3052-7a6292923ffa6ee2.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\3052-7a6292923ffa6ee2.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/3145-464387acc5428042.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\3145-464387acc5428042.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/3834-9c9886598f918553.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\3834-9c9886598f918553.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/4869-25fc0e87d7182614.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\4869-25fc0e87d7182614.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/5426-ad7487dcd727f49b.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\5426-ad7487dcd727f49b.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/5883-ad9ba1d03ae5f2e4.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\5883-ad9ba1d03ae5f2e4.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/605-d40b31b435a435d2.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\605-d40b31b435a435d2.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/6160-084de449bec51c99.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\6160-084de449bec51c99.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/6313-d80719d2af87b46a.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\6313-d80719d2af87b46a.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/8100-0b3a54b75c81f62a.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\8100-0b3a54b75c81f62a.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/8588-08a4105a77abf721.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\8588-08a4105a77abf721.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/9160-46c23d0054c22a18.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\9160-46c23d0054c22a18.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/9537-d9dea2cd15048d96.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\9537-d9dea2cd15048d96.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/(member)/mypage/layout-ce669ad28becf91e.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\(member)\mypage\layout-ce669ad28becf91e.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/(order)/item/[sku]/page-9f0d5ce3f2ca6046.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\(order)\item\[sku]\page-9f0d5ce3f2ca6046.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/(order)/shop/[parentsCategory]/[category]/layout-abcbcae1b994d4d9.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\(order)\shop\[parentsCategory]\[category]\layout-abcbcae1b994d4d9.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/(order)/shop/[parentsCategory]/[category]/page-e92012fc5eb24efd.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\(order)\shop\[parentsCategory]\[category]\page-e92012fc5eb24efd.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/(service)/store/[category]/page-c7b87379371b0532.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\(service)\store\[category]\page-c7b87379371b0532.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/error-0de8fffdf198a67a.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\error-0de8fffdf198a67a.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/layout-879469bda9b34a07.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\layout-879469bda9b34a07.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/not-found-0ad4cf7cf1c43c0b.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\not-found-0ad4cf7cf1c43c0b.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/app/[locale]/page-0a0f9365f54f6531.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\app\[locale]\page-0a0f9365f54f6531.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/fd9d1056-8ec368666d2ec77f.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\fd9d1056-8ec368666d2ec77f.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/main-app-9818ccb93a7c1f34.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\main-app-9818ccb93a7c1f34.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/chunks/webpack-bd6304d3e48c305d.js
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\chunks\webpack-bd6304d3e48c305d.js
+Content Type: application/javascript
+
+Uri: https://www.tamburins.com/_next/static/css/068a276787615d8b.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\068a276787615d8b.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/10ca00b6bff6870a.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\10ca00b6bff6870a.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/347da8e072c66eee.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\347da8e072c66eee.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/59f7011fd8712c9c.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\59f7011fd8712c9c.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/673ac66fec0caa43.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\673ac66fec0caa43.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/7c25ef1d5cdc2eda.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\7c25ef1d5cdc2eda.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/7eb7c6a18425d7c4.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\7eb7c6a18425d7c4.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/8af61ce92288bf11.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\8af61ce92288bf11.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/8fae86a59235b570.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\8fae86a59235b570.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/a844775113984286.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\a844775113984286.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/cccfe14c6de17133.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\cccfe14c6de17133.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/e2a2590e0589d15b.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\e2a2590e0589d15b.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/css/f04af7f13781fb92.css
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\css\f04af7f13781fb92.css
+Content Type: text/css
+
+Uri: https://www.tamburins.com/_next/static/media/bd20fcbd668c9c0b-s.p.woff
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\media\bd20fcbd668c9c0b-s.p.woff
+Content Type: font/woff
+
+Uri: https://www.tamburins.com/_next/static/media/beb11d1d1e81b6b5-s.p.woff2
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\media\beb11d1d1e81b6b5-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.tamburins.com/_next/static/media/ca77a3059914c9bf-s.p.woff
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\media\ca77a3059914c9bf-s.p.woff
+Content Type: font/woff
+
+Uri: https://www.tamburins.com/_next/static/media/d5ad75557efb8cde-s.p.woff
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\media\d5ad75557efb8cde-s.p.woff
+Content Type: font/woff
+
+Uri: https://www.tamburins.com/_next/static/media/e451cd935da8a92b-s.p.woff2
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\media\e451cd935da8a92b-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.tamburins.com/_next/static/media/fe36ce2aa22a5f95-s.p.woff2
+File Name: D:\CacWebsiteClone\www.tamburins.com\_next\static\media\fe36ce2aa22a5f95-s.p.woff2
+Content Type: font/woff2
+
